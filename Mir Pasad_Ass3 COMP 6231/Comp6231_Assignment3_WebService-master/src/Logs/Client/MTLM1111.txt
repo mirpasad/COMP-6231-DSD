@@ -1,0 +1,173 @@
+DATE: 2020-02-29 12:51:54 AM  login attempt
+DATE: 2020-02-29 12:51:54 AM  Admin Login successful
+DATE: 2020-02-29 01:53:54 AM  login attempt
+DATE: 2020-02-29 01:53:54 AM  Admin Login successful
+DATE: 2020-02-29 01:53:57 AM  attempting ORB shutdown
+DATE: 2020-02-29 01:53:57 AM  shutdown
+DATE: 2020-03-01 05:35:49 PM  login attempt
+DATE: 2020-03-01 05:35:49 PM  Admin Login successful
+DATE: 2020-03-01 05:35:57 PM  attempting to listMovieAvailability
+DATE: 2020-03-01 05:35:57 PM Client Action:  listMovieAvailability | RequestParameters:  movieName: Avatar  | Server Response: Atwater Server Avatar:
+ (ATWA090620) in the Afternoon of 09/06/2020 Total[Remaining] Capacity: 2[2] ||  (ATWE101020) in the Evening of 10/10/2020 Total[Remaining] Capacity: 2[2] ||
+=====================================
+Outremont Server Avatar:
+ (OUTE080620) in the Evening of 08/06/2020 Total[Remaining] Capacity: 1[1] ||  (OUTE110620) in the Evening of 11/06/2020 Total[Remaining] Capacity: 1[1] ||
+=====================================
+Verdun Server Avatar:
+No Movies of Type Avatar
+=====================================
+
+DATE: 2020-03-01 05:36:43 PM  attempting to bookMovie
+DATE: 2020-03-01 05:36:43 PM Client Action:  bookMovie | RequestParameters:  customerID: ATWC1234 movieID: OUTE080620 movieName: Avatar  | Server Response: Success: Movie OUTE080620 Booked Successfully
+DATE: 2020-03-01 05:37:26 PM  attempting to swapMovie
+DATE: 2020-03-01 05:37:26 PM Client Action:  swapMovie | RequestParameters:  customerID: ATWC1122 oldMovieID: OUTE080620 oldMovieName: Avatar newMovieID: OUTE110620 newMovieName: Avatar  | Server Response: Failed: You ATWC1122 Are Not Registered in OUTE080620
+DATE: 2020-03-01 05:37:59 PM  attempting to swapMovie
+DATE: 2020-03-01 05:37:59 PM Client Action:  swapMovie | RequestParameters:  customerID: ATWC1234 oldMovieID: OUTE080620 oldMovieName: Avatar newMovieID: OUTE110620 newMovieName: Avatar  | Server Response: Success: Movie OUTE080620 swapped with OUTE110620
+DATE: 2020-03-01 05:38:09 PM  attempting to getBookingSchedule
+DATE: 2020-03-01 05:38:09 PM Client Action:  getBookingSchedule | RequestParameters:  customerID: ATWC1234  | Server Response: Avatar:
+OUTE110620 ||
+=====================================
+
+DATE: 2020-03-01 05:38:40 PM  attempting to swapMovie
+DATE: 2020-03-01 05:38:40 PM Client Action:  swapMovie | RequestParameters:  customerID: ATWC1234 oldMovieID: OUTE110620 oldMovieName: Avatar newMovieID: ATWE101020 newMovieName: Avatar  | Server Response: Success: Movie OUTE110620 swapped with ATWE101020
+DATE: 2020-03-01 05:38:48 PM  attempting to getBookingSchedule
+DATE: 2020-03-01 05:38:48 PM Client Action:  getBookingSchedule | RequestParameters:  customerID: ATWC1234  | Server Response: Avatar:
+ATWE101020 ||
+=====================================
+
+DATE: 2020-03-01 05:39:10 PM  attempting to listMovieAvailability
+DATE: 2020-03-01 05:39:10 PM Client Action:  listMovieAvailability | RequestParameters:  movieName: Avatar  | Server Response: Atwater Server Avatar:
+ (ATWA090620) in the Afternoon of 09/06/2020 Total[Remaining] Capacity: 2[2] ||  (ATWE101020) in the Evening of 10/10/2020 Total[Remaining] Capacity: 2[1] ||
+=====================================
+Outremont Server Avatar:
+ (OUTE080620) in the Evening of 08/06/2020 Total[Remaining] Capacity: 1[1] ||  (OUTE110620) in the Evening of 11/06/2020 Total[Remaining] Capacity: 1[1] ||
+=====================================
+Verdun Server Avatar:
+No Movies of Type Avatar
+=====================================
+
+DATE: 2020-03-01 05:39:28 PM  attempting ORB shutdown
+DATE: 2020-03-01 05:39:28 PM  shutdown
+DATE: 2020-03-25 06:51:02 PM  login attempt
+DATE: 2020-03-25 06:51:02 PM  Admin Login successful
+DATE: 2020-03-25 06:51:07 PM  attempting to listMovieAvailability
+DATE: 2020-03-25 06:51:07 PM Client Action:  listMovieAvailability | RequestParameters:  movieName: Avatar  | Server Response: Atwater Server Avatar:
+ (ATWE101020) in the Evening of 10/10/2020 Total[Remaining] Capacity: 2[2] ||
+=====================================
+Outremont Server Avatar:
+No Movies of Type Avatar
+=====================================
+Verdun Server Avatar:
+No Movies of Type Avatar
+=====================================
+
+DATE: 2020-03-25 06:54:27 PM  login attempt
+DATE: 2020-03-25 06:54:27 PM  Admin Login successful
+DATE: 2020-03-25 06:54:32 PM  attempting to listMovieAvailability
+DATE: 2020-03-25 06:54:32 PM Client Action:  listMovieAvailability | RequestParameters:  movieName: Avatar  | Server Response: Atwater Server Avatar:
+ (ATWE101020) in the Evening of 10/10/2020 Total[Remaining] Capacity: 2[2] ||
+=====================================
+Outremont Server Avatar:
+No Movies of Type Avatar
+=====================================
+Verdun Server Avatar:
+No Movies of Type Avatar
+=====================================
+
+DATE: 2020-03-25 06:54:39 PM attempting to Logout
+DATE: 2020-03-26 06:21:58 PM  login attempt
+DATE: 2020-03-26 06:21:58 PM  Admin Login successful
+DATE: 2020-03-26 06:22:01 PM  attempting to listMovieAvailability
+DATE: 2020-03-26 06:22:01 PM Client Action:  listMovieAvailability | RequestParameters:  movieName: Avatar  | Server Response: Atwater Server Avatar:
+ (ATWE101020) in the Evening of 10/10/2020 Total[Remaining] Capacity: 2[2] ||
+=====================================
+Outremont Server Avatar:
+No Movies of Type Avatar
+=====================================
+Verdun Server Avatar:
+No Movies of Type Avatar
+=====================================
+
+DATE: 2020-03-26 06:22:12 PM attempting to Logout
+DATE: 2020-04-03 01:44:32 PM  login attempt
+DATE: 2020-04-03 01:44:32 PM  Admin Login successful
+DATE: 2020-04-03 01:44:36 PM  attempting to listMovieAvailability
+DATE: 2020-04-03 01:44:36 PM Client Action:  listMovieAvailability | RequestParameters:  movieName: Avatar  | Server Response: Atwater Server Avatar:
+ (ATWE101020) in the Evening of 10/10/2020 Total[Remaining] Capacity: 2[2] ||
+=====================================
+Outremont Server Avatar:
+No Movies of Type Avatar
+=====================================
+Verdun Server Avatar:
+No Movies of Type Avatar
+=====================================
+
+DATE: 2020-04-22 03:39:13 PM  login attempt
+DATE: 2020-04-22 03:39:13 PM  Admin Login successful
+DATE: 2020-04-22 03:39:18 PM  attempting to listMovieAvailability
+DATE: 2020-04-22 03:39:18 PM Client Action:  listMovieAvailability | RequestParameters:  movieName: Avatar  | Server Response: Atwater Server Avatar:
+ (ATWA080820) in the Afternoon of 08/08/2020 Total[Remaining] Capacity: 2[1] ||
+=====================================
+Outremont Server Avatar:
+No Movies of Type Avatar
+=====================================
+Verdun Server Avatar:
+No Movies of Type Avatar
+=====================================
+
+DATE: 2020-04-22 03:39:37 PM  attempting to listMovieAvailability
+DATE: 2020-04-22 03:39:37 PM Client Action:  listMovieAvailability | RequestParameters:  movieName: Avengers  | Server Response: Atwater Server Avengers:
+ (ATWM110820) in the Morning of 11/08/2020 Total[Remaining] Capacity: 1[0] ||  (ATWM120820) in the Morning of 12/08/2020 Total[Remaining] Capacity: 1[1] ||
+=====================================
+Outremont Server Avengers:
+No Movies of Type Avengers
+=====================================
+Verdun Server Avengers:
+ (VERA250820) in the Afternoon of 25/08/2020 Total[Remaining] Capacity: 1[0] ||
+=====================================
+
+DATE: 2020-04-22 03:39:49 PM  attempting to listMovieAvailability
+DATE: 2020-04-22 03:39:49 PM Client Action:  listMovieAvailability | RequestParameters:  movieName: Titanic  | Server Response: Atwater Server Titanic:
+No Movies of Type Titanic
+
+=====================================
+Outremont Server Titanic:
+ (OUTE080820) in the Evening of 08/08/2020 Total[Remaining] Capacity: 1[0] ||
+=====================================
+Verdun Server Titanic:
+ (VERE150820) in the Evening of 15/08/2020 Total[Remaining] Capacity: 1[1] ||
+=====================================
+
+DATE: 2020-04-22 03:41:02 PM  attempting to removeMovie
+DATE: 2020-04-22 03:41:02 PM Client Action:  removeMovie | RequestParameters:  movieID: ATWM110820 movieName: Avengers  | Server Response: Success: Movie ATWM110820 Removed Successfully
+DATE: 2020-04-22 03:41:07 PM  attempting to listMovieAvailability
+DATE: 2020-04-22 03:41:07 PM Client Action:  listMovieAvailability | RequestParameters:  movieName: Avengers  | Server Response: Atwater Server Avengers:
+ (ATWM120820) in the Morning of 12/08/2020 Total[Remaining] Capacity: 1[0] ||
+=====================================
+Outremont Server Avengers:
+No Movies of Type Avengers
+=====================================
+Verdun Server Avengers:
+ (VERA250820) in the Afternoon of 25/08/2020 Total[Remaining] Capacity: 1[0] ||
+=====================================
+
+DATE: 2020-04-22 03:41:44 PM  attempting to getBookingSchedule
+DATE: 2020-04-22 03:41:44 PM Client Action:  getBookingSchedule | RequestParameters:  customerID: ATWC1111  | Server Response: Booking Schedule Empty For ATWC1111
+DATE: 2020-04-22 03:41:49 PM attempting to Logout
+DATE: 2020-04-22 03:43:06 PM  login attempt
+DATE: 2020-04-22 03:43:06 PM  Admin Login successful
+DATE: 2020-04-22 03:43:29 PM  attempting to removeMovie
+DATE: 2020-04-22 03:43:29 PM Client Action:  removeMovie | RequestParameters:  movieID: ATWM120820 movieName: Avengers  | Server Response: Success: Movie ATWM120820 Removed Successfully
+DATE: 2020-04-22 03:43:39 PM  attempting to listMovieAvailability
+DATE: 2020-04-22 03:43:39 PM Client Action:  listMovieAvailability | RequestParameters:  movieName: Avengers  | Server Response: Atwater Server Avengers:
+No Movies of Type Avengers
+
+=====================================
+Outremont Server Avengers:
+No Movies of Type Avengers
+=====================================
+Verdun Server Avengers:
+ (VERA250820) in the Afternoon of 25/08/2020 Total[Remaining] Capacity: 1[0] ||
+=====================================
+
+DATE: 2020-04-22 03:43:44 PM attempting to Logout

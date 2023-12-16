@@ -1,0 +1,5 @@
+DATE: 2023-03-13 05:50:47 AM  login attempt
+DATE: 2023-03-13 05:50:47 AM  Customer Login successful
+DATE: 2023-03-13 05:50:52 AM  attempting to getBookingSchedule
+DATE: 2023-03-13 05:50:52 AM Client Action:  bookMovie | RequestParameters:  null  | Server Response: Avatar:
+ATWM140323 ||

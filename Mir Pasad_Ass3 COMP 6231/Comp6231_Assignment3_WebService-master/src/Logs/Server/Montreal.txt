@@ -1,0 +1,789 @@
+DATE: 2020-02-29 12:26:03 AM Exception: org.omg..COMM_FAILURE:   vmcid: SUN  minor code: 201  completed: No
+DATE: 2020-02-29 12:26:03 AM  Server Shutting down
+DATE: 2020-02-29 12:43:23 AM Exception: org.omg..COMM_FAILURE:   vmcid: SUN  minor code: 201  completed: No
+DATE: 2020-02-29 12:43:23 AM  Server Shutting down
+DATE: 2020-02-29 01:03:00 AM  Server is Up & Running
+DATE: 2020-02-29 01:03:00 AM  UDP Server Started at port 8888
+DATE: 2020-02-29 01:03:37 AM  Server is Up & Running
+DATE: 2020-02-29 01:03:37 AM  UDP Server Started at port 8888
+DATE: 2020-02-29 01:04:06 AM ClientID: Movie Admin | RequestType:   addMovie  | RequestParameters:  movieID: ATWE101020 movieName: Avatar bookingCapacity 2  | ServerResponse: Success: Movie ATWE101020 added successfully
+DATE: 2020-02-29 01:04:06 AM ClientID: ATWC4567 | RequestType:   bookMovie  | RequestParameters:  movieID: ATWE101020 movieName: Avatar  | ServerResponse: Success: Movie ATWE101020 Booked Successfully
+DATE: 2020-02-29 01:04:06 AM ClientID: ATWC3456 | RequestType:   bookMovie  | RequestParameters:  movieID: ATWE101020 movieName: Avatar  | ServerResponse: Success: Movie ATWE101020 Booked Successfully
+DATE: 2020-02-29 01:04:06 AM ClientID: ATWC2345 | RequestType:   bookMovie  | RequestParameters:  movieID: ATWE101020 movieName: Avatar  | ServerResponse: Failed: Movie ATWE101020 is Full
+DATE: 2020-02-29 01:53:57 AM Exception: org.omg..BAD_INV_ORDER:   vmcid: OMG  minor code: 4  completed: No
+DATE: 2020-02-29 01:53:57 AM  Server Shutting down
+DATE: 2020-03-01 04:49:03 PM  Server is Up & Running
+DATE: 2020-03-01 04:49:03 PM  UDP Server Started at port 8888
+DATE: 2020-03-01 04:49:15 PM ClientID: Movie Admin | RequestType:   addMovie  | RequestParameters:  movieID: ATWE101020 movieName: Avatar bookingCapacity 2  | ServerResponse: Success: Movie ATWE101020 added successfully
+DATE: 2020-03-01 04:49:15 PM ClientID: ATWC4567 | RequestType:   bookMovie  | RequestParameters:  movieID: ATWE101020 movieName: Avatar  | ServerResponse: Success: Movie ATWE101020 Booked Successfully
+DATE: 2020-03-01 04:49:15 PM ClientID: ATWC2345 | RequestType:   bookMovie  | RequestParameters:  movieID: ATWE101020 movieName: Avatar  | ServerResponse: Success: Movie ATWE101020 Booked Successfully
+DATE: 2020-03-01 04:49:15 PM ClientID: ATWC3456 | RequestType:   bookMovie  | RequestParameters:  movieID: ATWE101020 movieName: Avatar  | ServerResponse: Failed: Movie ATWE101020 is Full
+DATE: 2020-03-01 04:49:15 PM ClientID: ATWC6789 | RequestType:   bookMovie  | RequestParameters:  movieID: ATWE101020 movieName: Avatar  | ServerResponse: Failed: Movie ATWE101020 is Full
+DATE: 2020-03-01 04:49:15 PM ClientID: ATWC7890 | RequestType:   bookMovie  | RequestParameters:  movieID: ATWE101020 movieName: Avatar  | ServerResponse: Failed: Movie ATWE101020 is Full
+DATE: 2020-03-01 04:49:25 PM ClientID: Movie Admin | RequestType:   addMovie  | RequestParameters:  movieID: ATWE101020 movieName: Avatar bookingCapacity 2  | ServerResponse: Success: Movie ATWE101020 Capacity increased to 2
+DATE: 2020-03-01 04:49:25 PM ClientID: ATWC4567 | RequestType:   bookMovie  | RequestParameters:  movieID: ATWE101020 movieName: Avatar  | ServerResponse: Failed: Movie ATWE101020 is Full
+DATE: 2020-03-01 04:49:25 PM ClientID: ATWC2345 | RequestType:   bookMovie  | RequestParameters:  movieID: ATWE101020 movieName: Avatar  | ServerResponse: Failed: Movie ATWE101020 is Full
+DATE: 2020-03-01 04:49:25 PM ClientID: ATWC3456 | RequestType:   bookMovie  | RequestParameters:  movieID: ATWE101020 movieName: Avatar  | ServerResponse: Failed: Movie ATWE101020 is Full
+DATE: 2020-03-01 04:49:25 PM ClientID: ATWC6789 | RequestType:   bookMovie  | RequestParameters:  movieID: ATWE101020 movieName: Avatar  | ServerResponse: Failed: Movie ATWE101020 is Full
+DATE: 2020-03-01 04:49:25 PM ClientID: ATWC7890 | RequestType:   bookMovie  | RequestParameters:  movieID: ATWE101020 movieName: Avatar  | ServerResponse: Failed: Movie ATWE101020 is Full
+DATE: 2020-03-01 04:49:38 PM ClientID: Movie Admin | RequestType:   addMovie  | RequestParameters:  movieID: ATWE101020 movieName: Avatar bookingCapacity 2  | ServerResponse: Success: Movie ATWE101020 Capacity increased to 2
+DATE: 2020-03-01 04:49:38 PM ClientID: ATWC7890 | RequestType:   bookMovie  | RequestParameters:  movieID: ATWE101020 movieName: Avatar  | ServerResponse: Failed: Movie ATWE101020 is Full
+DATE: 2020-03-01 04:49:38 PM ClientID: ATWC6789 | RequestType:   bookMovie  | RequestParameters:  movieID: ATWE101020 movieName: Avatar  | ServerResponse: Failed: Movie ATWE101020 is Full
+DATE: 2020-03-01 04:49:38 PM ClientID: ATWC4567 | RequestType:   bookMovie  | RequestParameters:  movieID: ATWE101020 movieName: Avatar  | ServerResponse: Failed: Movie ATWE101020 is Full
+DATE: 2020-03-01 04:49:38 PM ClientID: ATWC2345 | RequestType:   bookMovie  | RequestParameters:  movieID: ATWE101020 movieName: Avatar  | ServerResponse: Failed: Movie ATWE101020 is Full
+DATE: 2020-03-01 04:49:38 PM ClientID: ATWC3456 | RequestType:   bookMovie  | RequestParameters:  movieID: ATWE101020 movieName: Avatar  | ServerResponse: Failed: Movie ATWE101020 is Full
+DATE: 2020-03-01 04:52:05 PM ClientID: Movie Admin | RequestType:   addMovie  | RequestParameters:  movieID: ATWE101020 movieName: Avatar bookingCapacity 2  | ServerResponse: Success: Movie ATWE101020 Capacity increased to 2
+DATE: 2020-03-01 04:52:05 PM ClientID: ATWC2345 | RequestType:   bookMovie  | RequestParameters:  movieID: ATWE101020 movieName: Avatar  | ServerResponse: Failed: Movie ATWE101020 is Full
+DATE: 2020-03-01 04:52:05 PM ClientID: ATWC3456 | RequestType:   bookMovie  | RequestParameters:  movieID: ATWE101020 movieName: Avatar  | ServerResponse: Failed: Movie ATWE101020 is Full
+DATE: 2020-03-01 04:52:05 PM ClientID: ATWC6789 | RequestType:   bookMovie  | RequestParameters:  movieID: ATWE101020 movieName: Avatar  | ServerResponse: Failed: Movie ATWE101020 is Full
+DATE: 2020-03-01 04:52:05 PM ClientID: ATWC4567 | RequestType:   bookMovie  | RequestParameters:  movieID: ATWE101020 movieName: Avatar  | ServerResponse: Failed: Movie ATWE101020 is Full
+DATE: 2020-03-01 04:52:05 PM ClientID: ATWC7890 | RequestType:   bookMovie  | RequestParameters:  movieID: ATWE101020 movieName: Avatar  | ServerResponse: Failed: Movie ATWE101020 is Full
+DATE: 2020-03-01 04:52:05 PM ClientID: ATWC2345 | RequestType:   cancelMovie  | RequestParameters:  movieID: ATWE101020 movieName: Avatar  | ServerResponse: Success: Movie ATWE101020 Canceled for ATWC2345
+DATE: 2020-03-01 04:52:05 PM ClientID: ATWC4567 | RequestType:   cancelMovie  | RequestParameters:  movieID: ATWE101020 movieName: Avatar  | ServerResponse: Success: Movie ATWE101020 Canceled for ATWC4567
+DATE: 2020-03-01 04:52:25 PM ClientID: Movie Admin | RequestType:   addMovie  | RequestParameters:  movieID: ATWE101020 movieName: Avatar bookingCapacity 2  | ServerResponse: Success: Movie ATWE101020 Capacity increased to 2
+DATE: 2020-03-01 04:52:25 PM ClientID: ATWC2345 | RequestType:   bookMovie  | RequestParameters:  movieID: ATWE101020 movieName: Avatar  | ServerResponse: Success: Movie ATWE101020 Booked Successfully
+DATE: 2020-03-01 04:52:25 PM ClientID: ATWC7890 | RequestType:   bookMovie  | RequestParameters:  movieID: ATWE101020 movieName: Avatar  | ServerResponse: Success: Movie ATWE101020 Booked Successfully
+DATE: 2020-03-01 04:52:25 PM ClientID: ATWC4567 | RequestType:   bookMovie  | RequestParameters:  movieID: ATWE101020 movieName: Avatar  | ServerResponse: Failed: Movie ATWE101020 is Full
+DATE: 2020-03-01 04:52:25 PM ClientID: ATWC6789 | RequestType:   bookMovie  | RequestParameters:  movieID: ATWE101020 movieName: Avatar  | ServerResponse: Failed: Movie ATWE101020 is Full
+DATE: 2020-03-01 04:52:25 PM ClientID: ATWC3456 | RequestType:   bookMovie  | RequestParameters:  movieID: ATWE101020 movieName: Avatar  | ServerResponse: Failed: Movie ATWE101020 is Full
+DATE: 2020-03-01 04:52:25 PM ClientID: ATWC2345 | RequestType:   cancelMovie  | RequestParameters:  movieID: ATWE101020 movieName: Avatar  | ServerResponse: Success: Movie ATWE101020 Canceled for ATWC2345
+DATE: 2020-03-01 04:52:25 PM ClientID: ATWC4567 | RequestType:   cancelMovie  | RequestParameters:  movieID: ATWE101020 movieName: Avatar  | ServerResponse: Failed: You ATWC4567 Are Not Registered in ATWE101020
+DATE: 2020-03-01 04:52:25 PM ClientID: ATWC7890 | RequestType:   cancelMovie  | RequestParameters:  movieID: ATWE101020 movieName: Avatar  | ServerResponse: Success: Movie ATWE101020 Canceled for ATWC7890
+DATE: 2020-03-01 04:54:54 PM  Server is Up & Running
+DATE: 2020-03-01 04:54:54 PM  UDP Server Started at port 8888
+DATE: 2020-03-01 04:55:03 PM ClientID: Movie Admin | RequestType:   addMovie  | RequestParameters:  movieID: ATWE101020 movieName: Avatar bookingCapacity 2  | ServerResponse: Success: Movie ATWE101020 added successfully
+DATE: 2020-03-01 04:55:03 PM ClientID: ATWC2345 | RequestType:   bookMovie  | RequestParameters:  movieID: ATWE101020 movieName: Avatar  | ServerResponse: Success: Movie ATWE101020 Booked Successfully
+DATE: 2020-03-01 04:55:03 PM ClientID: ATWC6789 | RequestType:   bookMovie  | RequestParameters:  movieID: ATWE101020 movieName: Avatar  | ServerResponse: Success: Movie ATWE101020 Booked Successfully
+DATE: 2020-03-01 04:55:03 PM ClientID: ATWC7890 | RequestType:   bookMovie  | RequestParameters:  movieID: ATWE101020 movieName: Avatar  | ServerResponse: Failed: Movie ATWE101020 is Full
+DATE: 2020-03-01 04:55:03 PM ClientID: ATWC4567 | RequestType:   bookMovie  | RequestParameters:  movieID: ATWE101020 movieName: Avatar  | ServerResponse: Failed: Movie ATWE101020 is Full
+DATE: 2020-03-01 04:55:03 PM ClientID: ATWC3456 | RequestType:   bookMovie  | RequestParameters:  movieID: ATWE101020 movieName: Avatar  | ServerResponse: Failed: Movie ATWE101020 is Full
+DATE: 2020-03-01 04:56:12 PM ClientID: ATWC6789 | RequestType:   cancelMovie  | RequestParameters:  movieID: ATWE101020 movieName: Avatar  | ServerResponse: Success: Movie ATWE101020 Canceled for ATWC6789
+DATE: 2020-03-01 04:56:12 PM ClientID: ATWC2345 | RequestType:   cancelMovie  | RequestParameters:  movieID: ATWE101020 movieName: Avatar  | ServerResponse: Success: Movie ATWE101020 Canceled for ATWC2345
+DATE: 2020-03-01 05:03:48 PM  Server is Up & Running
+DATE: 2020-03-01 05:03:48 PM  UDP Server Started at port 8888
+DATE: 2020-03-01 05:03:56 PM ClientID: Movie Admin | RequestType:   addMovie  | RequestParameters:  movieID: ATWE101020 movieName: Avatar bookingCapacity 2  | ServerResponse: Success: Movie ATWE101020 added successfully
+DATE: 2020-03-01 05:03:56 PM ClientID: ATWC3456 | RequestType:   bookMovie  | RequestParameters:  movieID: ATWE101020 movieName: Avatar  | ServerResponse: Success: Movie ATWE101020 Booked Successfully
+DATE: 2020-03-01 05:03:56 PM ClientID: ATWC4567 | RequestType:   bookMovie  | RequestParameters:  movieID: ATWE101020 movieName: Avatar  | ServerResponse: Success: Movie ATWE101020 Booked Successfully
+DATE: 2020-03-01 05:03:56 PM ClientID: ATWC7890 | RequestType:   bookMovie  | RequestParameters:  movieID: ATWE101020 movieName: Avatar  | ServerResponse: Failed: Movie ATWE101020 is Full
+DATE: 2020-03-01 05:03:56 PM ClientID: ATWC2345 | RequestType:   bookMovie  | RequestParameters:  movieID: ATWE101020 movieName: Avatar  | ServerResponse: Failed: Movie ATWE101020 is Full
+DATE: 2020-03-01 05:03:56 PM ClientID: ATWC6789 | RequestType:   bookMovie  | RequestParameters:  movieID: ATWE101020 movieName: Avatar  | ServerResponse: Failed: Movie ATWE101020 is Full
+DATE: 2020-03-01 05:03:56 PM ClientID: ATWC3456 | RequestType:   cancelMovie  | RequestParameters:  movieID: ATWE101020 movieName: Avatar  | ServerResponse: Success: Movie ATWE101020 Canceled for ATWC3456
+DATE: 2020-03-01 05:03:56 PM ClientID: ATWC7890 | RequestType:   cancelMovie  | RequestParameters:  movieID: ATWE101020 movieName: Avatar  | ServerResponse: Failed: You ATWC7890 Are Not Registered in ATWE101020
+DATE: 2020-03-01 05:03:56 PM ClientID: ATWC6789 | RequestType:   cancelMovie  | RequestParameters:  movieID: ATWE101020 movieName: Avatar  | ServerResponse: Failed: You ATWC6789 Are Not Registered in ATWE101020
+DATE: 2020-03-01 05:03:56 PM ClientID: ATWC2345 | RequestType:   cancelMovie  | RequestParameters:  movieID: ATWE101020 movieName: Avatar  | ServerResponse: Failed: You ATWC2345 Are Not Registered in ATWE101020
+DATE: 2020-03-01 05:03:56 PM ClientID: ATWC4567 | RequestType:   cancelMovie  | RequestParameters:  movieID: ATWE101020 movieName: Avatar  | ServerResponse: Success: Movie ATWE101020 Canceled for ATWC4567
+DATE: 2020-03-01 05:04:16 PM ClientID: Movie Admin | RequestType:   addMovie  | RequestParameters:  movieID: ATWE101020 movieName: Avatar bookingCapacity 2  | ServerResponse: Success: Movie ATWE101020 Capacity increased to 2
+DATE: 2020-03-01 05:04:16 PM ClientID: ATWC2345 | RequestType:   bookMovie  | RequestParameters:  movieID: ATWE101020 movieName: Avatar  | ServerResponse: Success: Movie ATWE101020 Booked Successfully
+DATE: 2020-03-01 05:04:16 PM ClientID: ATWC4567 | RequestType:   bookMovie  | RequestParameters:  movieID: ATWE101020 movieName: Avatar  | ServerResponse: Success: Movie ATWE101020 Booked Successfully
+DATE: 2020-03-01 05:04:16 PM ClientID: ATWC3456 | RequestType:   bookMovie  | RequestParameters:  movieID: ATWE101020 movieName: Avatar  | ServerResponse: Failed: Movie ATWE101020 is Full
+DATE: 2020-03-01 05:04:16 PM ClientID: ATWC7890 | RequestType:   bookMovie  | RequestParameters:  movieID: ATWE101020 movieName: Avatar  | ServerResponse: Failed: Movie ATWE101020 is Full
+DATE: 2020-03-01 05:04:16 PM ClientID: ATWC6789 | RequestType:   bookMovie  | RequestParameters:  movieID: ATWE101020 movieName: Avatar  | ServerResponse: Failed: Movie ATWE101020 is Full
+DATE: 2020-03-01 05:04:16 PM ClientID: ATWC4567 | RequestType:   cancelMovie  | RequestParameters:  movieID: ATWE101020 movieName: Avatar  | ServerResponse: Success: Movie ATWE101020 Canceled for ATWC4567
+DATE: 2020-03-01 05:04:16 PM ClientID: ATWC3456 | RequestType:   cancelMovie  | RequestParameters:  movieID: ATWE101020 movieName: Avatar  | ServerResponse: Failed: You ATWC3456 Are Not Registered in ATWE101020
+DATE: 2020-03-01 05:04:16 PM ClientID: ATWC2345 | RequestType:   cancelMovie  | RequestParameters:  movieID: ATWE101020 movieName: Avatar  | ServerResponse: Success: Movie ATWE101020 Canceled for ATWC2345
+DATE: 2020-03-01 05:04:16 PM ClientID: ATWC6789 | RequestType:   cancelMovie  | RequestParameters:  movieID: ATWE101020 movieName: Avatar  | ServerResponse: Failed: You ATWC6789 Are Not Registered in ATWE101020
+DATE: 2020-03-01 05:04:16 PM ClientID: ATWC7890 | RequestType:   cancelMovie  | RequestParameters:  movieID: ATWE101020 movieName: Avatar  | ServerResponse: Failed: You ATWC7890 Are Not Registered in ATWE101020
+DATE: 2020-03-01 05:04:24 PM ClientID: Movie Admin | RequestType:   addMovie  | RequestParameters:  movieID: ATWE101020 movieName: Avatar bookingCapacity 2  | ServerResponse: Success: Movie ATWE101020 Capacity increased to 2
+DATE: 2020-03-01 05:04:24 PM ClientID: ATWC3456 | RequestType:   bookMovie  | RequestParameters:  movieID: ATWE101020 movieName: Avatar  | ServerResponse: Success: Movie ATWE101020 Booked Successfully
+DATE: 2020-03-01 05:04:24 PM ClientID: ATWC2345 | RequestType:   bookMovie  | RequestParameters:  movieID: ATWE101020 movieName: Avatar  | ServerResponse: Success: Movie ATWE101020 Booked Successfully
+DATE: 2020-03-01 05:04:24 PM ClientID: ATWC7890 | RequestType:   bookMovie  | RequestParameters:  movieID: ATWE101020 movieName: Avatar  | ServerResponse: Failed: Movie ATWE101020 is Full
+DATE: 2020-03-01 05:04:24 PM ClientID: ATWC6789 | RequestType:   bookMovie  | RequestParameters:  movieID: ATWE101020 movieName: Avatar  | ServerResponse: Failed: Movie ATWE101020 is Full
+DATE: 2020-03-01 05:04:24 PM ClientID: ATWC4567 | RequestType:   bookMovie  | RequestParameters:  movieID: ATWE101020 movieName: Avatar  | ServerResponse: Failed: Movie ATWE101020 is Full
+DATE: 2020-03-01 05:04:24 PM ClientID: ATWC2345 | RequestType:   cancelMovie  | RequestParameters:  movieID: ATWE101020 movieName: Avatar  | ServerResponse: Success: Movie ATWE101020 Canceled for ATWC2345
+DATE: 2020-03-01 05:04:24 PM ClientID: ATWC3456 | RequestType:   cancelMovie  | RequestParameters:  movieID: ATWE101020 movieName: Avatar  | ServerResponse: Success: Movie ATWE101020 Canceled for ATWC3456
+DATE: 2020-03-01 05:04:24 PM ClientID: ATWC7890 | RequestType:   cancelMovie  | RequestParameters:  movieID: ATWE101020 movieName: Avatar  | ServerResponse: Failed: You ATWC7890 Are Not Registered in ATWE101020
+DATE: 2020-03-01 05:04:24 PM ClientID: ATWC6789 | RequestType:   cancelMovie  | RequestParameters:  movieID: ATWE101020 movieName: Avatar  | ServerResponse: Failed: You ATWC6789 Are Not Registered in ATWE101020
+DATE: 2020-03-01 05:04:24 PM ClientID: ATWC4567 | RequestType:   cancelMovie  | RequestParameters:  movieID: ATWE101020 movieName: Avatar  | ServerResponse: Failed: You ATWC4567 Are Not Registered in ATWE101020
+DATE: 2020-03-01 05:04:28 PM ClientID: Movie Admin | RequestType:   addMovie  | RequestParameters:  movieID: ATWE101020 movieName: Avatar bookingCapacity 2  | ServerResponse: Success: Movie ATWE101020 Capacity increased to 2
+DATE: 2020-03-01 05:04:28 PM ClientID: ATWC6789 | RequestType:   bookMovie  | RequestParameters:  movieID: ATWE101020 movieName: Avatar  | ServerResponse: Success: Movie ATWE101020 Booked Successfully
+DATE: 2020-03-01 05:04:28 PM ClientID: ATWC3456 | RequestType:   bookMovie  | RequestParameters:  movieID: ATWE101020 movieName: Avatar  | ServerResponse: Success: Movie ATWE101020 Booked Successfully
+DATE: 2020-03-01 05:04:28 PM ClientID: ATWC2345 | RequestType:   bookMovie  | RequestParameters:  movieID: ATWE101020 movieName: Avatar  | ServerResponse: Failed: Movie ATWE101020 is Full
+DATE: 2020-03-01 05:04:28 PM ClientID: ATWC4567 | RequestType:   bookMovie  | RequestParameters:  movieID: ATWE101020 movieName: Avatar  | ServerResponse: Failed: Movie ATWE101020 is Full
+DATE: 2020-03-01 05:04:28 PM ClientID: ATWC7890 | RequestType:   bookMovie  | RequestParameters:  movieID: ATWE101020 movieName: Avatar  | ServerResponse: Failed: Movie ATWE101020 is Full
+DATE: 2020-03-01 05:04:28 PM ClientID: ATWC3456 | RequestType:   cancelMovie  | RequestParameters:  movieID: ATWE101020 movieName: Avatar  | ServerResponse: Success: Movie ATWE101020 Canceled for ATWC3456
+DATE: 2020-03-01 05:04:28 PM ClientID: ATWC7890 | RequestType:   cancelMovie  | RequestParameters:  movieID: ATWE101020 movieName: Avatar  | ServerResponse: Failed: You ATWC7890 Are Not Registered in ATWE101020
+DATE: 2020-03-01 05:04:28 PM ClientID: ATWC4567 | RequestType:   cancelMovie  | RequestParameters:  movieID: ATWE101020 movieName: Avatar  | ServerResponse: Failed: You ATWC4567 Are Not Registered in ATWE101020
+DATE: 2020-03-01 05:04:28 PM ClientID: ATWC2345 | RequestType:   cancelMovie  | RequestParameters:  movieID: ATWE101020 movieName: Avatar  | ServerResponse: Failed: You ATWC2345 Are Not Registered in ATWE101020
+DATE: 2020-03-01 05:04:28 PM ClientID: ATWC6789 | RequestType:   cancelMovie  | RequestParameters:  movieID: ATWE101020 movieName: Avatar  | ServerResponse: Success: Movie ATWE101020 Canceled for ATWC6789
+DATE: 2020-03-01 05:08:09 PM ClientID: Movie Admin | RequestType:   addMovie  | RequestParameters:  movieID: ATWE101020 movieName: Avatar bookingCapacity 2  | ServerResponse: Success: Movie ATWE101020 Capacity increased to 2
+DATE: 2020-03-01 05:08:09 PM ClientID: ATWC4567 | RequestType:   bookMovie  | RequestParameters:  movieID: ATWE101020 movieName: Avatar  | ServerResponse: Success: Movie ATWE101020 Booked Successfully
+DATE: 2020-03-01 05:08:09 PM ClientID: ATWC2345 | RequestType:   bookMovie  | RequestParameters:  movieID: ATWE101020 movieName: Avatar  | ServerResponse: Success: Movie ATWE101020 Booked Successfully
+DATE: 2020-03-01 05:08:09 PM ClientID: ATWC6789 | RequestType:   bookMovie  | RequestParameters:  movieID: ATWE101020 movieName: Avatar  | ServerResponse: Failed: Movie ATWE101020 is Full
+DATE: 2020-03-01 05:08:09 PM ClientID: ATWC3456 | RequestType:   bookMovie  | RequestParameters:  movieID: ATWE101020 movieName: Avatar  | ServerResponse: Failed: Movie ATWE101020 is Full
+DATE: 2020-03-01 05:08:09 PM ClientID: ATWC7890 | RequestType:   bookMovie  | RequestParameters:  movieID: ATWE101020 movieName: Avatar  | ServerResponse: Failed: Movie ATWE101020 is Full
+DATE: 2020-03-01 05:08:09 PM ClientID: ATWC4567 | RequestType:   cancelMovie  | RequestParameters:  movieID: ATWE101020 movieName: Avatar  | ServerResponse: Success: Movie ATWE101020 Canceled for ATWC4567
+DATE: 2020-03-01 05:08:09 PM ClientID: ATWC2345 | RequestType:   cancelMovie  | RequestParameters:  movieID: ATWE101020 movieName: Avatar  | ServerResponse: Success: Movie ATWE101020 Canceled for ATWC2345
+DATE: 2020-03-01 05:08:09 PM ClientID: ATWC6789 | RequestType:   cancelMovie  | RequestParameters:  movieID: ATWE101020 movieName: Avatar  | ServerResponse: Failed: You ATWC6789 Are Not Registered in ATWE101020
+DATE: 2020-03-01 05:08:09 PM ClientID: ATWC3456 | RequestType:   cancelMovie  | RequestParameters:  movieID: ATWE101020 movieName: Avatar  | ServerResponse: Failed: You ATWC3456 Are Not Registered in ATWE101020
+DATE: 2020-03-01 05:08:09 PM ClientID: ATWC7890 | RequestType:   cancelMovie  | RequestParameters:  movieID: ATWE101020 movieName: Avatar  | ServerResponse: Failed: You ATWC7890 Are Not Registered in ATWE101020
+DATE: 2020-03-01 05:09:57 PM ClientID: Movie Admin | RequestType:   addMovie  | RequestParameters:  movieID: ATWE101020 movieName: Avatar bookingCapacity 2  | ServerResponse: Success: Movie ATWE101020 Capacity increased to 2
+DATE: 2020-03-01 05:09:57 PM ClientID: ATWC4567 | RequestType:   bookMovie  | RequestParameters:  movieID: ATWE101020 movieName: Avatar  | ServerResponse: Success: Movie ATWE101020 Booked Successfully
+DATE: 2020-03-01 05:09:57 PM ClientID: ATWC6789 | RequestType:   bookMovie  | RequestParameters:  movieID: ATWE101020 movieName: Avatar  | ServerResponse: Success: Movie ATWE101020 Booked Successfully
+DATE: 2020-03-01 05:09:57 PM ClientID: ATWC3456 | RequestType:   bookMovie  | RequestParameters:  movieID: ATWE101020 movieName: Avatar  | ServerResponse: Failed: Movie ATWE101020 is Full
+DATE: 2020-03-01 05:09:57 PM ClientID: ATWC7890 | RequestType:   bookMovie  | RequestParameters:  movieID: ATWE101020 movieName: Avatar  | ServerResponse: Failed: Movie ATWE101020 is Full
+DATE: 2020-03-01 05:09:57 PM ClientID: ATWC2345 | RequestType:   bookMovie  | RequestParameters:  movieID: ATWE101020 movieName: Avatar  | ServerResponse: Failed: Movie ATWE101020 is Full
+DATE: 2020-03-01 05:09:57 PM ClientID: ATWC6789 | RequestType:   cancelMovie  | RequestParameters:  movieID: ATWE101020 movieName: Avatar  | ServerResponse: Success: Movie ATWE101020 Canceled for ATWC6789
+DATE: 2020-03-01 05:09:57 PM ClientID: ATWC4567 | RequestType:   cancelMovie  | RequestParameters:  movieID: ATWE101020 movieName: Avatar  | ServerResponse: Success: Movie ATWE101020 Canceled for ATWC4567
+DATE: 2020-03-01 05:09:57 PM ClientID: ATWC3456 | RequestType:   cancelMovie  | RequestParameters:  movieID: ATWE101020 movieName: Avatar  | ServerResponse: Failed: You ATWC3456 Are Not Registered in ATWE101020
+DATE: 2020-03-01 05:09:57 PM ClientID: ATWC7890 | RequestType:   cancelMovie  | RequestParameters:  movieID: ATWE101020 movieName: Avatar  | ServerResponse: Failed: You ATWC7890 Are Not Registered in ATWE101020
+DATE: 2020-03-01 05:09:57 PM ClientID: ATWC2345 | RequestType:   cancelMovie  | RequestParameters:  movieID: ATWE101020 movieName: Avatar  | ServerResponse: Failed: You ATWC2345 Are Not Registered in ATWE101020
+DATE: 2020-03-01 05:13:45 PM ClientID: Movie Admin | RequestType:   addMovie  | RequestParameters:  movieID: ATWE101020 movieName: Avatar bookingCapacity 2  | ServerResponse: Success: Movie ATWE101020 Capacity increased to 2
+DATE: 2020-03-01 05:13:45 PM ClientID: ATWC2345 | RequestType:   bookMovie  | RequestParameters:  movieID: ATWE101020 movieName: Avatar  | ServerResponse: Success: Movie ATWE101020 Booked Successfully
+DATE: 2020-03-01 05:13:45 PM ClientID: ATWC3456 | RequestType:   bookMovie  | RequestParameters:  movieID: ATWE101020 movieName: Avatar  | ServerResponse: Success: Movie ATWE101020 Booked Successfully
+DATE: 2020-03-01 05:13:45 PM ClientID: ATWC4567 | RequestType:   bookMovie  | RequestParameters:  movieID: ATWE101020 movieName: Avatar  | ServerResponse: Failed: Movie ATWE101020 is Full
+DATE: 2020-03-01 05:13:45 PM ClientID: ATWC6789 | RequestType:   bookMovie  | RequestParameters:  movieID: ATWE101020 movieName: Avatar  | ServerResponse: Failed: Movie ATWE101020 is Full
+DATE: 2020-03-01 05:13:45 PM ClientID: ATWC7890 | RequestType:   bookMovie  | RequestParameters:  movieID: ATWE101020 movieName: Avatar  | ServerResponse: Failed: Movie ATWE101020 is Full
+DATE: 2020-03-01 05:13:45 PM ClientID: ATWC2345 | RequestType:   cancelMovie  | RequestParameters:  movieID: ATWE101020 movieName: Avatar  | ServerResponse: Success: Movie ATWE101020 Canceled for ATWC2345
+DATE: 2020-03-01 05:13:45 PM ClientID: ATWC4567 | RequestType:   cancelMovie  | RequestParameters:  movieID: ATWE101020 movieName: Avatar  | ServerResponse: Failed: You ATWC4567 Are Not Registered in ATWE101020
+DATE: 2020-03-01 05:13:45 PM ClientID: ATWC3456 | RequestType:   cancelMovie  | RequestParameters:  movieID: ATWE101020 movieName: Avatar  | ServerResponse: Success: Movie ATWE101020 Canceled for ATWC3456
+DATE: 2020-03-01 05:13:45 PM ClientID: ATWC6789 | RequestType:   cancelMovie  | RequestParameters:  movieID: ATWE101020 movieName: Avatar  | ServerResponse: Failed: You ATWC6789 Are Not Registered in ATWE101020
+DATE: 2020-03-01 05:13:45 PM ClientID: ATWC7890 | RequestType:   cancelMovie  | RequestParameters:  movieID: ATWE101020 movieName: Avatar  | ServerResponse: Failed: You ATWC7890 Are Not Registered in ATWE101020
+DATE: 2020-03-01 05:15:16 PM ClientID: Movie Admin | RequestType:   addMovie  | RequestParameters:  movieID: ATWE101020 movieName: Avatar bookingCapacity 2  | ServerResponse: Success: Movie ATWE101020 Capacity increased to 2
+DATE: 2020-03-01 05:15:16 PM ClientID: ATWC2345 | RequestType:   bookMovie  | RequestParameters:  movieID: ATWE101020 movieName: Avatar  | ServerResponse: Success: Movie ATWE101020 Booked Successfully
+DATE: 2020-03-01 05:15:16 PM ClientID: ATWC4567 | RequestType:   bookMovie  | RequestParameters:  movieID: ATWE101020 movieName: Avatar  | ServerResponse: Failed: Movie ATWE101020 is Full
+DATE: 2020-03-01 05:15:16 PM ClientID: ATWC3456 | RequestType:   bookMovie  | RequestParameters:  movieID: ATWE101020 movieName: Avatar  | ServerResponse: Success: Movie ATWE101020 Booked Successfully
+DATE: 2020-03-01 05:15:16 PM ClientID: ATWC6789 | RequestType:   bookMovie  | RequestParameters:  movieID: ATWE101020 movieName: Avatar  | ServerResponse: Failed: Movie ATWE101020 is Full
+DATE: 2020-03-01 05:15:16 PM ClientID: ATWC7890 | RequestType:   bookMovie  | RequestParameters:  movieID: ATWE101020 movieName: Avatar  | ServerResponse: Failed: Movie ATWE101020 is Full
+DATE: 2020-03-01 05:15:16 PM ClientID: ATWC2345 | RequestType:   cancelMovie  | RequestParameters:  movieID: ATWE101020 movieName: Avatar  | ServerResponse: Success: Movie ATWE101020 Canceled for ATWC2345
+DATE: 2020-03-01 05:15:16 PM ClientID: ATWC4567 | RequestType:   cancelMovie  | RequestParameters:  movieID: ATWE101020 movieName: Avatar  | ServerResponse: Failed: You ATWC4567 Are Not Registered in ATWE101020
+DATE: 2020-03-01 05:15:16 PM ClientID: ATWC6789 | RequestType:   cancelMovie  | RequestParameters:  movieID: ATWE101020 movieName: Avatar  | ServerResponse: Failed: You ATWC6789 Are Not Registered in ATWE101020
+DATE: 2020-03-01 05:15:16 PM ClientID: ATWC3456 | RequestType:   cancelMovie  | RequestParameters:  movieID: ATWE101020 movieName: Avatar  | ServerResponse: Success: Movie ATWE101020 Canceled for ATWC3456
+DATE: 2020-03-01 05:15:16 PM ClientID: ATWC7890 | RequestType:   cancelMovie  | RequestParameters:  movieID: ATWE101020 movieName: Avatar  | ServerResponse: Failed: You ATWC7890 Are Not Registered in ATWE101020
+DATE: 2020-03-01 05:15:36 PM ClientID: Movie Admin | RequestType:   addMovie  | RequestParameters:  movieID: ATWE101020 movieName: Avatar bookingCapacity 2  | ServerResponse: Success: Movie ATWE101020 Capacity increased to 2
+DATE: 2020-03-01 05:15:36 PM ClientID: ATWC2345 | RequestType:   bookMovie  | RequestParameters:  movieID: ATWE101020 movieName: Avatar  | ServerResponse: Success: Movie ATWE101020 Booked Successfully
+DATE: 2020-03-01 05:15:36 PM ClientID: ATWC7890 | RequestType:   bookMovie  | RequestParameters:  movieID: ATWE101020 movieName: Avatar  | ServerResponse: Success: Movie ATWE101020 Booked Successfully
+DATE: 2020-03-01 05:15:36 PM ClientID: ATWC3456 | RequestType:   bookMovie  | RequestParameters:  movieID: ATWE101020 movieName: Avatar  | ServerResponse: Failed: Movie ATWE101020 is Full
+DATE: 2020-03-01 05:15:36 PM ClientID: ATWC6789 | RequestType:   bookMovie  | RequestParameters:  movieID: ATWE101020 movieName: Avatar  | ServerResponse: Failed: Movie ATWE101020 is Full
+DATE: 2020-03-01 05:15:36 PM ClientID: ATWC4567 | RequestType:   bookMovie  | RequestParameters:  movieID: ATWE101020 movieName: Avatar  | ServerResponse: Failed: Movie ATWE101020 is Full
+DATE: 2020-03-01 05:15:36 PM ClientID: ATWC2345 | RequestType:   cancelMovie  | RequestParameters:  movieID: ATWE101020 movieName: Avatar  | ServerResponse: Success: Movie ATWE101020 Canceled for ATWC2345
+DATE: 2020-03-01 05:15:36 PM ClientID: ATWC7890 | RequestType:   cancelMovie  | RequestParameters:  movieID: ATWE101020 movieName: Avatar  | ServerResponse: Success: Movie ATWE101020 Canceled for ATWC7890
+DATE: 2020-03-01 05:15:36 PM ClientID: ATWC3456 | RequestType:   cancelMovie  | RequestParameters:  movieID: ATWE101020 movieName: Avatar  | ServerResponse: Failed: You ATWC3456 Are Not Registered in ATWE101020
+DATE: 2020-03-01 05:15:36 PM ClientID: ATWC4567 | RequestType:   cancelMovie  | RequestParameters:  movieID: ATWE101020 movieName: Avatar  | ServerResponse: Failed: You ATWC4567 Are Not Registered in ATWE101020
+DATE: 2020-03-01 05:15:36 PM ClientID: ATWC6789 | RequestType:   cancelMovie  | RequestParameters:  movieID: ATWE101020 movieName: Avatar  | ServerResponse: Failed: You ATWC6789 Are Not Registered in ATWE101020
+DATE: 2020-03-01 05:15:46 PM ClientID: Movie Admin | RequestType:   addMovie  | RequestParameters:  movieID: ATWE101020 movieName: Avatar bookingCapacity 2  | ServerResponse: Success: Movie ATWE101020 Capacity increased to 2
+DATE: 2020-03-01 05:15:46 PM ClientID: ATWC3456 | RequestType:   bookMovie  | RequestParameters:  movieID: ATWE101020 movieName: Avatar  | ServerResponse: Success: Movie ATWE101020 Booked Successfully
+DATE: 2020-03-01 05:15:46 PM ClientID: ATWC4567 | RequestType:   bookMovie  | RequestParameters:  movieID: ATWE101020 movieName: Avatar  | ServerResponse: Failed: Movie ATWE101020 is Full
+DATE: 2020-03-01 05:15:46 PM ClientID: ATWC2345 | RequestType:   bookMovie  | RequestParameters:  movieID: ATWE101020 movieName: Avatar  | ServerResponse: Success: Movie ATWE101020 Booked Successfully
+DATE: 2020-03-01 05:15:46 PM ClientID: ATWC7890 | RequestType:   bookMovie  | RequestParameters:  movieID: ATWE101020 movieName: Avatar  | ServerResponse: Failed: Movie ATWE101020 is Full
+DATE: 2020-03-01 05:15:46 PM ClientID: ATWC6789 | RequestType:   bookMovie  | RequestParameters:  movieID: ATWE101020 movieName: Avatar  | ServerResponse: Failed: Movie ATWE101020 is Full
+DATE: 2020-03-01 05:15:46 PM ClientID: ATWC2345 | RequestType:   cancelMovie  | RequestParameters:  movieID: ATWE101020 movieName: Avatar  | ServerResponse: Success: Movie ATWE101020 Canceled for ATWC2345
+DATE: 2020-03-01 05:15:46 PM ClientID: ATWC4567 | RequestType:   cancelMovie  | RequestParameters:  movieID: ATWE101020 movieName: Avatar  | ServerResponse: Failed: You ATWC4567 Are Not Registered in ATWE101020
+DATE: 2020-03-01 05:15:46 PM ClientID: ATWC3456 | RequestType:   cancelMovie  | RequestParameters:  movieID: ATWE101020 movieName: Avatar  | ServerResponse: Success: Movie ATWE101020 Canceled for ATWC3456
+DATE: 2020-03-01 05:15:46 PM ClientID: ATWC7890 | RequestType:   cancelMovie  | RequestParameters:  movieID: ATWE101020 movieName: Avatar  | ServerResponse: Failed: You ATWC7890 Are Not Registered in ATWE101020
+DATE: 2020-03-01 05:15:46 PM ClientID: ATWC6789 | RequestType:   cancelMovie  | RequestParameters:  movieID: ATWE101020 movieName: Avatar  | ServerResponse: Failed: You ATWC6789 Are Not Registered in ATWE101020
+DATE: 2020-03-01 05:17:42 PM ClientID: Movie Admin | RequestType:   addMovie  | RequestParameters:  movieID: ATWE101020 movieName: Avatar bookingCapacity 2  | ServerResponse: Success: Movie ATWE101020 Capacity increased to 2
+DATE: 2020-03-01 05:17:42 PM ClientID: ATWC2345 | RequestType:   bookMovie  | RequestParameters:  movieID: ATWE101020 movieName: Avatar  | ServerResponse: Success: Movie ATWE101020 Booked Successfully
+DATE: 2020-03-01 05:17:42 PM ClientID: ATWC2345 | RequestType:   cancelMovie  | RequestParameters:  movieID: ATWE101020 movieName: Avatar  | ServerResponse: Success: Movie ATWE101020 Canceled for ATWC2345
+DATE: 2020-03-01 05:17:42 PM ClientID: ATWC3456 | RequestType:   bookMovie  | RequestParameters:  movieID: ATWE101020 movieName: Avatar  | ServerResponse: Success: Movie ATWE101020 Booked Successfully
+DATE: 2020-03-01 05:17:42 PM ClientID: ATWC3456 | RequestType:   cancelMovie  | RequestParameters:  movieID: ATWE101020 movieName: Avatar  | ServerResponse: Success: Movie ATWE101020 Canceled for ATWC3456
+DATE: 2020-03-01 05:17:42 PM ClientID: ATWC4567 | RequestType:   bookMovie  | RequestParameters:  movieID: ATWE101020 movieName: Avatar  | ServerResponse: Success: Movie ATWE101020 Booked Successfully
+DATE: 2020-03-01 05:17:42 PM ClientID: ATWC4567 | RequestType:   cancelMovie  | RequestParameters:  movieID: ATWE101020 movieName: Avatar  | ServerResponse: Success: Movie ATWE101020 Canceled for ATWC4567
+DATE: 2020-03-01 05:17:42 PM ClientID: ATWC6789 | RequestType:   bookMovie  | RequestParameters:  movieID: ATWE101020 movieName: Avatar  | ServerResponse: Success: Movie ATWE101020 Booked Successfully
+DATE: 2020-03-01 05:17:42 PM ClientID: ATWC6789 | RequestType:   cancelMovie  | RequestParameters:  movieID: ATWE101020 movieName: Avatar  | ServerResponse: Success: Movie ATWE101020 Canceled for ATWC6789
+DATE: 2020-03-01 05:17:42 PM ClientID: ATWC7890 | RequestType:   bookMovie  | RequestParameters:  movieID: ATWE101020 movieName: Avatar  | ServerResponse: Success: Movie ATWE101020 Booked Successfully
+DATE: 2020-03-01 05:17:42 PM ClientID: ATWC7890 | RequestType:   cancelMovie  | RequestParameters:  movieID: ATWE101020 movieName: Avatar  | ServerResponse: Success: Movie ATWE101020 Canceled for ATWC7890
+DATE: 2020-03-01 05:20:41 PM ClientID: Movie Admin | RequestType:   addMovie  | RequestParameters:  movieID: ATWE101020 movieName: Avatar bookingCapacity 2  | ServerResponse: Success: Movie ATWE101020 Capacity increased to 2
+DATE: 2020-03-01 05:20:41 PM ClientID: ATWC2345 | RequestType:   bookMovie  | RequestParameters:  movieID: ATWE101020 movieName: Avatar  | ServerResponse: Success: Movie ATWE101020 Booked Successfully
+DATE: 2020-03-01 05:20:41 PM ClientID: ATWC2345 | RequestType:   cancelMovie  | RequestParameters:  movieID: ATWE101020 movieName: Avatar  | ServerResponse: Success: Movie ATWE101020 Canceled for ATWC2345
+DATE: 2020-03-01 05:20:41 PM ClientID: ATWC3456 | RequestType:   bookMovie  | RequestParameters:  movieID: ATWE101020 movieName: Avatar  | ServerResponse: Success: Movie ATWE101020 Booked Successfully
+DATE: 2020-03-01 05:20:41 PM ClientID: ATWC3456 | RequestType:   cancelMovie  | RequestParameters:  movieID: ATWE101020 movieName: Avatar  | ServerResponse: Success: Movie ATWE101020 Canceled for ATWC3456
+DATE: 2020-03-01 05:20:41 PM ClientID: ATWC4567 | RequestType:   bookMovie  | RequestParameters:  movieID: ATWE101020 movieName: Avatar  | ServerResponse: Success: Movie ATWE101020 Booked Successfully
+DATE: 2020-03-01 05:20:41 PM ClientID: ATWC4567 | RequestType:   cancelMovie  | RequestParameters:  movieID: ATWE101020 movieName: Avatar  | ServerResponse: Success: Movie ATWE101020 Canceled for ATWC4567
+DATE: 2020-03-01 05:20:41 PM ClientID: ATWC6789 | RequestType:   bookMovie  | RequestParameters:  movieID: ATWE101020 movieName: Avatar  | ServerResponse: Success: Movie ATWE101020 Booked Successfully
+DATE: 2020-03-01 05:20:41 PM ClientID: ATWC6789 | RequestType:   cancelMovie  | RequestParameters:  movieID: ATWE101020 movieName: Avatar  | ServerResponse: Success: Movie ATWE101020 Canceled for ATWC6789
+DATE: 2020-03-01 05:20:41 PM ClientID: ATWC7890 | RequestType:   bookMovie  | RequestParameters:  movieID: ATWE101020 movieName: Avatar  | ServerResponse: Success: Movie ATWE101020 Booked Successfully
+DATE: 2020-03-01 05:20:41 PM ClientID: ATWC7890 | RequestType:   cancelMovie  | RequestParameters:  movieID: ATWE101020 movieName: Avatar  | ServerResponse: Success: Movie ATWE101020 Canceled for ATWC7890
+DATE: 2020-03-01 05:20:49 PM ClientID: Movie Admin | RequestType:   addMovie  | RequestParameters:  movieID: ATWE101020 movieName: Avatar bookingCapacity 2  | ServerResponse: Success: Movie ATWE101020 Capacity increased to 2
+DATE: 2020-03-01 05:20:49 PM ClientID: ATWC2345 | RequestType:   bookMovie  | RequestParameters:  movieID: ATWE101020 movieName: Avatar  | ServerResponse: Success: Movie ATWE101020 Booked Successfully
+DATE: 2020-03-01 05:20:49 PM ClientID: ATWC2345 | RequestType:   cancelMovie  | RequestParameters:  movieID: ATWE101020 movieName: Avatar  | ServerResponse: Success: Movie ATWE101020 Canceled for ATWC2345
+DATE: 2020-03-01 05:20:49 PM ClientID: ATWC3456 | RequestType:   bookMovie  | RequestParameters:  movieID: ATWE101020 movieName: Avatar  | ServerResponse: Success: Movie ATWE101020 Booked Successfully
+DATE: 2020-03-01 05:20:49 PM ClientID: ATWC3456 | RequestType:   cancelMovie  | RequestParameters:  movieID: ATWE101020 movieName: Avatar  | ServerResponse: Success: Movie ATWE101020 Canceled for ATWC3456
+DATE: 2020-03-01 05:20:49 PM ClientID: ATWC4567 | RequestType:   bookMovie  | RequestParameters:  movieID: ATWE101020 movieName: Avatar  | ServerResponse: Success: Movie ATWE101020 Booked Successfully
+DATE: 2020-03-01 05:20:49 PM ClientID: ATWC4567 | RequestType:   cancelMovie  | RequestParameters:  movieID: ATWE101020 movieName: Avatar  | ServerResponse: Success: Movie ATWE101020 Canceled for ATWC4567
+DATE: 2020-03-01 05:20:49 PM ClientID: ATWC6789 | RequestType:   bookMovie  | RequestParameters:  movieID: ATWE101020 movieName: Avatar  | ServerResponse: Success: Movie ATWE101020 Booked Successfully
+DATE: 2020-03-01 05:20:49 PM ClientID: ATWC6789 | RequestType:   cancelMovie  | RequestParameters:  movieID: ATWE101020 movieName: Avatar  | ServerResponse: Success: Movie ATWE101020 Canceled for ATWC6789
+DATE: 2020-03-01 05:20:49 PM ClientID: ATWC7890 | RequestType:   bookMovie  | RequestParameters:  movieID: ATWE101020 movieName: Avatar  | ServerResponse: Success: Movie ATWE101020 Booked Successfully
+DATE: 2020-03-01 05:20:49 PM ClientID: ATWC7890 | RequestType:   cancelMovie  | RequestParameters:  movieID: ATWE101020 movieName: Avatar  | ServerResponse: Success: Movie ATWE101020 Canceled for ATWC7890
+DATE: 2020-03-01 05:20:54 PM ClientID: Movie Admin | RequestType:   addMovie  | RequestParameters:  movieID: ATWE101020 movieName: Avatar bookingCapacity 2  | ServerResponse: Success: Movie ATWE101020 Capacity increased to 2
+DATE: 2020-03-01 05:20:54 PM ClientID: ATWC2345 | RequestType:   bookMovie  | RequestParameters:  movieID: ATWE101020 movieName: Avatar  | ServerResponse: Success: Movie ATWE101020 Booked Successfully
+DATE: 2020-03-01 05:20:54 PM ClientID: ATWC2345 | RequestType:   cancelMovie  | RequestParameters:  movieID: ATWE101020 movieName: Avatar  | ServerResponse: Success: Movie ATWE101020 Canceled for ATWC2345
+DATE: 2020-03-01 05:20:54 PM ClientID: ATWC3456 | RequestType:   bookMovie  | RequestParameters:  movieID: ATWE101020 movieName: Avatar  | ServerResponse: Success: Movie ATWE101020 Booked Successfully
+DATE: 2020-03-01 05:20:54 PM ClientID: ATWC3456 | RequestType:   cancelMovie  | RequestParameters:  movieID: ATWE101020 movieName: Avatar  | ServerResponse: Success: Movie ATWE101020 Canceled for ATWC3456
+DATE: 2020-03-01 05:20:54 PM ClientID: ATWC4567 | RequestType:   bookMovie  | RequestParameters:  movieID: ATWE101020 movieName: Avatar  | ServerResponse: Success: Movie ATWE101020 Booked Successfully
+DATE: 2020-03-01 05:20:54 PM ClientID: ATWC4567 | RequestType:   cancelMovie  | RequestParameters:  movieID: ATWE101020 movieName: Avatar  | ServerResponse: Success: Movie ATWE101020 Canceled for ATWC4567
+DATE: 2020-03-01 05:20:54 PM ClientID: ATWC6789 | RequestType:   bookMovie  | RequestParameters:  movieID: ATWE101020 movieName: Avatar  | ServerResponse: Success: Movie ATWE101020 Booked Successfully
+DATE: 2020-03-01 05:20:54 PM ClientID: ATWC6789 | RequestType:   cancelMovie  | RequestParameters:  movieID: ATWE101020 movieName: Avatar  | ServerResponse: Success: Movie ATWE101020 Canceled for ATWC6789
+DATE: 2020-03-01 05:20:54 PM ClientID: ATWC7890 | RequestType:   bookMovie  | RequestParameters:  movieID: ATWE101020 movieName: Avatar  | ServerResponse: Success: Movie ATWE101020 Booked Successfully
+DATE: 2020-03-01 05:20:54 PM ClientID: ATWC7890 | RequestType:   cancelMovie  | RequestParameters:  movieID: ATWE101020 movieName: Avatar  | ServerResponse: Success: Movie ATWE101020 Canceled for ATWC7890
+DATE: 2020-03-01 05:21:12 PM ClientID: Movie Admin | RequestType:   addMovie  | RequestParameters:  movieID: ATWE101020 movieName: Avatar bookingCapacity 2  | ServerResponse: Success: Movie ATWE101020 Capacity increased to 2
+DATE: 2020-03-01 05:21:12 PM ClientID: ATWC6789 | RequestType:   bookMovie  | RequestParameters:  movieID: ATWE101020 movieName: Avatar  | ServerResponse: Success: Movie ATWE101020 Booked Successfully
+DATE: 2020-03-01 05:21:12 PM ClientID: ATWC7890 | RequestType:   bookMovie  | RequestParameters:  movieID: ATWE101020 movieName: Avatar  | ServerResponse: Success: Movie ATWE101020 Booked Successfully
+DATE: 2020-03-01 05:21:12 PM ClientID: ATWC4567 | RequestType:   bookMovie  | RequestParameters:  movieID: ATWE101020 movieName: Avatar  | ServerResponse: Failed: Movie ATWE101020 is Full
+DATE: 2020-03-01 05:21:12 PM ClientID: ATWC3456 | RequestType:   bookMovie  | RequestParameters:  movieID: ATWE101020 movieName: Avatar  | ServerResponse: Failed: Movie ATWE101020 is Full
+DATE: 2020-03-01 05:21:12 PM ClientID: ATWC2345 | RequestType:   bookMovie  | RequestParameters:  movieID: ATWE101020 movieName: Avatar  | ServerResponse: Failed: Movie ATWE101020 is Full
+DATE: 2020-03-01 05:21:12 PM ClientID: ATWC6789 | RequestType:   cancelMovie  | RequestParameters:  movieID: ATWE101020 movieName: Avatar  | ServerResponse: Success: Movie ATWE101020 Canceled for ATWC6789
+DATE: 2020-03-01 05:21:12 PM ClientID: ATWC7890 | RequestType:   cancelMovie  | RequestParameters:  movieID: ATWE101020 movieName: Avatar  | ServerResponse: Success: Movie ATWE101020 Canceled for ATWC7890
+DATE: 2020-03-01 05:21:12 PM ClientID: ATWC3456 | RequestType:   cancelMovie  | RequestParameters:  movieID: ATWE101020 movieName: Avatar  | ServerResponse: Failed: You ATWC3456 Are Not Registered in ATWE101020
+DATE: 2020-03-01 05:21:12 PM ClientID: ATWC4567 | RequestType:   cancelMovie  | RequestParameters:  movieID: ATWE101020 movieName: Avatar  | ServerResponse: Failed: You ATWC4567 Are Not Registered in ATWE101020
+DATE: 2020-03-01 05:21:12 PM ClientID: ATWC2345 | RequestType:   cancelMovie  | RequestParameters:  movieID: ATWE101020 movieName: Avatar  | ServerResponse: Failed: You ATWC2345 Are Not Registered in ATWE101020
+DATE: 2020-03-01 05:21:33 PM ClientID: Movie Admin | RequestType:   addMovie  | RequestParameters:  movieID: ATWE101020 movieName: Avatar bookingCapacity 2  | ServerResponse: Success: Movie ATWE101020 Capacity increased to 2
+DATE: 2020-03-01 05:21:33 PM ClientID: ATWC4567 | RequestType:   bookMovie  | RequestParameters:  movieID: ATWE101020 movieName: Avatar  | ServerResponse: Success: Movie ATWE101020 Booked Successfully
+DATE: 2020-03-01 05:21:33 PM ClientID: ATWC3456 | RequestType:   bookMovie  | RequestParameters:  movieID: ATWE101020 movieName: Avatar  | ServerResponse: Failed: Movie ATWE101020 is Full
+DATE: 2020-03-01 05:21:33 PM ClientID: ATWC2345 | RequestType:   bookMovie  | RequestParameters:  movieID: ATWE101020 movieName: Avatar  | ServerResponse: Success: Movie ATWE101020 Booked Successfully
+DATE: 2020-03-01 05:21:33 PM ClientID: ATWC6789 | RequestType:   bookMovie  | RequestParameters:  movieID: ATWE101020 movieName: Avatar  | ServerResponse: Failed: Movie ATWE101020 is Full
+DATE: 2020-03-01 05:21:33 PM ClientID: ATWC7890 | RequestType:   bookMovie  | RequestParameters:  movieID: ATWE101020 movieName: Avatar  | ServerResponse: Failed: Movie ATWE101020 is Full
+DATE: 2020-03-01 05:21:33 PM ClientID: ATWC3456 | RequestType:   cancelMovie  | RequestParameters:  movieID: ATWE101020 movieName: Avatar  | ServerResponse: Failed: You ATWC3456 Are Not Registered in ATWE101020
+DATE: 2020-03-01 05:21:33 PM ClientID: ATWC2345 | RequestType:   cancelMovie  | RequestParameters:  movieID: ATWE101020 movieName: Avatar  | ServerResponse: Success: Movie ATWE101020 Canceled for ATWC2345
+DATE: 2020-03-01 05:21:33 PM ClientID: ATWC7890 | RequestType:   cancelMovie  | RequestParameters:  movieID: ATWE101020 movieName: Avatar  | ServerResponse: Failed: You ATWC7890 Are Not Registered in ATWE101020
+DATE: 2020-03-01 05:21:33 PM ClientID: ATWC6789 | RequestType:   cancelMovie  | RequestParameters:  movieID: ATWE101020 movieName: Avatar  | ServerResponse: Failed: You ATWC6789 Are Not Registered in ATWE101020
+DATE: 2020-03-01 05:21:33 PM ClientID: ATWC4567 | RequestType:   cancelMovie  | RequestParameters:  movieID: ATWE101020 movieName: Avatar  | ServerResponse: Success: Movie ATWE101020 Canceled for ATWC4567
+DATE: 2020-03-01 05:26:58 PM ClientID: Movie Admin | RequestType:   addMovie  | RequestParameters:  movieID: ATWE101020 movieName: Avatar bookingCapacity 2  | ServerResponse: Success: Movie ATWE101020 Capacity increased to 2
+DATE: 2020-03-01 05:26:58 PM ClientID: ATWC3456 | RequestType:   bookMovie  | RequestParameters:  movieID: ATWE101020 movieName: Avatar  | ServerResponse: Success: Movie ATWE101020 Booked Successfully
+DATE: 2020-03-01 05:26:58 PM ClientID: ATWC7890 | RequestType:   bookMovie  | RequestParameters:  movieID: ATWE101020 movieName: Avatar  | ServerResponse: Success: Movie ATWE101020 Booked Successfully
+DATE: 2020-03-01 05:26:58 PM ClientID: ATWC4567 | RequestType:   bookMovie  | RequestParameters:  movieID: ATWE101020 movieName: Avatar  | ServerResponse: Failed: Movie ATWE101020 is Full
+DATE: 2020-03-01 05:26:58 PM ClientID: ATWC6789 | RequestType:   bookMovie  | RequestParameters:  movieID: ATWE101020 movieName: Avatar  | ServerResponse: Failed: Movie ATWE101020 is Full
+DATE: 2020-03-01 05:26:58 PM ClientID: ATWC2345 | RequestType:   bookMovie  | RequestParameters:  movieID: ATWE101020 movieName: Avatar  | ServerResponse: Failed: Movie ATWE101020 is Full
+DATE: 2020-03-01 05:26:58 PM ClientID: ATWC7890 | RequestType:   cancelMovie  | RequestParameters:  movieID: ATWE101020 movieName: Avatar  | ServerResponse: Success: Movie ATWE101020 Canceled for ATWC7890
+DATE: 2020-03-01 05:26:58 PM ClientID: ATWC3456 | RequestType:   cancelMovie  | RequestParameters:  movieID: ATWE101020 movieName: Avatar  | ServerResponse: Success: Movie ATWE101020 Canceled for ATWC3456
+DATE: 2020-03-01 05:26:58 PM ClientID: ATWC6789 | RequestType:   cancelMovie  | RequestParameters:  movieID: ATWE101020 movieName: Avatar  | ServerResponse: Failed: You ATWC6789 Are Not Registered in ATWE101020
+DATE: 2020-03-01 05:26:58 PM ClientID: ATWC4567 | RequestType:   cancelMovie  | RequestParameters:  movieID: ATWE101020 movieName: Avatar  | ServerResponse: Failed: You ATWC4567 Are Not Registered in ATWE101020
+DATE: 2020-03-01 05:26:58 PM ClientID: ATWC2345 | RequestType:   cancelMovie  | RequestParameters:  movieID: ATWE101020 movieName: Avatar  | ServerResponse: Failed: You ATWC2345 Are Not Registered in ATWE101020
+DATE: 2020-03-01 05:27:12 PM ClientID: Movie Admin | RequestType:   addMovie  | RequestParameters:  movieID: ATWE101020 movieName: Avatar bookingCapacity 2  | ServerResponse: Success: Movie ATWE101020 Capacity increased to 2
+DATE: 2020-03-01 05:27:12 PM ClientID: ATWC7890 | RequestType:   bookMovie  | RequestParameters:  movieID: ATWE101020 movieName: Avatar  | ServerResponse: Success: Movie ATWE101020 Booked Successfully
+DATE: 2020-03-01 05:27:12 PM ClientID: ATWC3456 | RequestType:   bookMovie  | RequestParameters:  movieID: ATWE101020 movieName: Avatar  | ServerResponse: Success: Movie ATWE101020 Booked Successfully
+DATE: 2020-03-01 05:27:12 PM ClientID: ATWC2345 | RequestType:   bookMovie  | RequestParameters:  movieID: ATWE101020 movieName: Avatar  | ServerResponse: Failed: Movie ATWE101020 is Full
+DATE: 2020-03-01 05:27:12 PM ClientID: ATWC4567 | RequestType:   bookMovie  | RequestParameters:  movieID: ATWE101020 movieName: Avatar  | ServerResponse: Failed: Movie ATWE101020 is Full
+DATE: 2020-03-01 05:27:12 PM ClientID: ATWC6789 | RequestType:   bookMovie  | RequestParameters:  movieID: ATWE101020 movieName: Avatar  | ServerResponse: Failed: Movie ATWE101020 is Full
+DATE: 2020-03-01 05:27:12 PM ClientID: ATWC7890 | RequestType:   cancelMovie  | RequestParameters:  movieID: ATWE101020 movieName: Avatar  | ServerResponse: Success: Movie ATWE101020 Canceled for ATWC7890
+DATE: 2020-03-01 05:27:12 PM ClientID: ATWC2345 | RequestType:   cancelMovie  | RequestParameters:  movieID: ATWE101020 movieName: Avatar  | ServerResponse: Failed: You ATWC2345 Are Not Registered in ATWE101020
+DATE: 2020-03-01 05:27:12 PM ClientID: ATWC3456 | RequestType:   cancelMovie  | RequestParameters:  movieID: ATWE101020 movieName: Avatar  | ServerResponse: Success: Movie ATWE101020 Canceled for ATWC3456
+DATE: 2020-03-01 05:27:12 PM ClientID: ATWC4567 | RequestType:   cancelMovie  | RequestParameters:  movieID: ATWE101020 movieName: Avatar  | ServerResponse: Failed: You ATWC4567 Are Not Registered in ATWE101020
+DATE: 2020-03-01 05:27:12 PM ClientID: ATWC6789 | RequestType:   cancelMovie  | RequestParameters:  movieID: ATWE101020 movieName: Avatar  | ServerResponse: Failed: You ATWC6789 Are Not Registered in ATWE101020
+DATE: 2020-03-01 05:28:37 PM ClientID: Movie Admin | RequestType:   addMovie  | RequestParameters:  movieID: ATWE101020 movieName: Avatar bookingCapacity 2  | ServerResponse: Success: Movie ATWE101020 Capacity increased to 2
+DATE: 2020-03-01 05:28:37 PM ClientID: ATWC4567 | RequestType:   bookMovie  | RequestParameters:  movieID: ATWE101020 movieName: Avatar  | ServerResponse: Success: Movie ATWE101020 Booked Successfully
+DATE: 2020-03-01 05:28:37 PM ClientID: ATWC3456 | RequestType:   bookMovie  | RequestParameters:  movieID: ATWE101020 movieName: Avatar  | ServerResponse: Success: Movie ATWE101020 Booked Successfully
+DATE: 2020-03-01 05:28:37 PM ClientID: ATWC2345 | RequestType:   bookMovie  | RequestParameters:  movieID: ATWE101020 movieName: Avatar  | ServerResponse: Failed: Movie ATWE101020 is Full
+DATE: 2020-03-01 05:28:37 PM ClientID: ATWC6789 | RequestType:   bookMovie  | RequestParameters:  movieID: ATWE101020 movieName: Avatar  | ServerResponse: Failed: Movie ATWE101020 is Full
+DATE: 2020-03-01 05:28:37 PM ClientID: ATWC7890 | RequestType:   bookMovie  | RequestParameters:  movieID: ATWE101020 movieName: Avatar  | ServerResponse: Failed: Movie ATWE101020 is Full
+DATE: 2020-03-01 05:28:37 PM ClientID: ATWC3456 | RequestType:   cancelMovie  | RequestParameters:  movieID: ATWE101020 movieName: Avatar  | ServerResponse: Success: Movie ATWE101020 Canceled for ATWC3456
+DATE: 2020-03-01 05:28:37 PM ClientID: ATWC2345 | RequestType:   cancelMovie  | RequestParameters:  movieID: ATWE101020 movieName: Avatar  | ServerResponse: Failed: You ATWC2345 Are Not Registered in ATWE101020
+DATE: 2020-03-01 05:28:37 PM ClientID: ATWC4567 | RequestType:   cancelMovie  | RequestParameters:  movieID: ATWE101020 movieName: Avatar  | ServerResponse: Success: Movie ATWE101020 Canceled for ATWC4567
+DATE: 2020-03-01 05:28:37 PM ClientID: ATWC6789 | RequestType:   cancelMovie  | RequestParameters:  movieID: ATWE101020 movieName: Avatar  | ServerResponse: Failed: You ATWC6789 Are Not Registered in ATWE101020
+DATE: 2020-03-01 05:28:37 PM ClientID: ATWC7890 | RequestType:   cancelMovie  | RequestParameters:  movieID: ATWE101020 movieName: Avatar  | ServerResponse: Failed: You ATWC7890 Are Not Registered in ATWE101020
+DATE: 2020-03-01 05:29:48 PM ClientID: Movie Admin | RequestType:   addMovie  | RequestParameters:  movieID: ATWE101020 movieName: Avatar bookingCapacity 2  | ServerResponse: Success: Movie ATWE101020 Capacity increased to 2
+DATE: 2020-03-01 05:29:48 PM ClientID: ATWC3456 | RequestType:   bookMovie  | RequestParameters:  movieID: ATWE101020 movieName: Avatar  | ServerResponse: Success: Movie ATWE101020 Booked Successfully
+DATE: 2020-03-01 05:29:48 PM ClientID: ATWC4567 | RequestType:   bookMovie  | RequestParameters:  movieID: ATWE101020 movieName: Avatar  | ServerResponse: Success: Movie ATWE101020 Booked Successfully
+DATE: 2020-03-01 05:29:48 PM ClientID: ATWC6789 | RequestType:   bookMovie  | RequestParameters:  movieID: ATWE101020 movieName: Avatar  | ServerResponse: Failed: Movie ATWE101020 is Full
+DATE: 2020-03-01 05:29:48 PM ClientID: ATWC2345 | RequestType:   bookMovie  | RequestParameters:  movieID: ATWE101020 movieName: Avatar  | ServerResponse: Failed: Movie ATWE101020 is Full
+DATE: 2020-03-01 05:29:48 PM ClientID: ATWC7890 | RequestType:   bookMovie  | RequestParameters:  movieID: ATWE101020 movieName: Avatar  | ServerResponse: Failed: Movie ATWE101020 is Full
+DATE: 2020-03-01 05:29:48 PM ClientID: ATWC3456 | RequestType:   cancelMovie  | RequestParameters:  movieID: ATWE101020 movieName: Avatar  | ServerResponse: Success: Movie ATWE101020 Canceled for ATWC3456
+DATE: 2020-03-01 05:29:48 PM ClientID: ATWC4567 | RequestType:   cancelMovie  | RequestParameters:  movieID: ATWE101020 movieName: Avatar  | ServerResponse: Success: Movie ATWE101020 Canceled for ATWC4567
+DATE: 2020-03-01 05:29:48 PM ClientID: ATWC6789 | RequestType:   cancelMovie  | RequestParameters:  movieID: ATWE101020 movieName: Avatar  | ServerResponse: Failed: You ATWC6789 Are Not Registered in ATWE101020
+DATE: 2020-03-01 05:29:48 PM ClientID: ATWC2345 | RequestType:   cancelMovie  | RequestParameters:  movieID: ATWE101020 movieName: Avatar  | ServerResponse: Failed: You ATWC2345 Are Not Registered in ATWE101020
+DATE: 2020-03-01 05:29:48 PM ClientID: ATWC7890 | RequestType:   cancelMovie  | RequestParameters:  movieID: ATWE101020 movieName: Avatar  | ServerResponse: Failed: You ATWC7890 Are Not Registered in ATWE101020
+DATE: 2020-03-01 05:30:14 PM ClientID: Movie Admin | RequestType:   addMovie  | RequestParameters:  movieID: ATWE101020 movieName: Avatar bookingCapacity 2  | ServerResponse: Success: Movie ATWE101020 Capacity increased to 2
+DATE: 2020-03-01 05:30:14 PM ClientID: ATWC2345 | RequestType:   bookMovie  | RequestParameters:  movieID: ATWE101020 movieName: Avatar  | ServerResponse: Success: Movie ATWE101020 Booked Successfully
+DATE: 2020-03-01 05:30:14 PM ClientID: ATWC7890 | RequestType:   bookMovie  | RequestParameters:  movieID: ATWE101020 movieName: Avatar  | ServerResponse: Failed: Movie ATWE101020 is Full
+DATE: 2020-03-01 05:30:14 PM ClientID: ATWC3456 | RequestType:   bookMovie  | RequestParameters:  movieID: ATWE101020 movieName: Avatar  | ServerResponse: Success: Movie ATWE101020 Booked Successfully
+DATE: 2020-03-01 05:30:14 PM ClientID: ATWC6789 | RequestType:   bookMovie  | RequestParameters:  movieID: ATWE101020 movieName: Avatar  | ServerResponse: Failed: Movie ATWE101020 is Full
+DATE: 2020-03-01 05:30:14 PM ClientID: ATWC4567 | RequestType:   bookMovie  | RequestParameters:  movieID: ATWE101020 movieName: Avatar  | ServerResponse: Failed: Movie ATWE101020 is Full
+DATE: 2020-03-01 05:30:14 PM ClientID: ATWC2345 | RequestType:   cancelMovie  | RequestParameters:  movieID: ATWE101020 movieName: Avatar  | ServerResponse: Success: Movie ATWE101020 Canceled for ATWC2345
+DATE: 2020-03-01 05:30:14 PM ClientID: ATWC3456 | RequestType:   cancelMovie  | RequestParameters:  movieID: ATWE101020 movieName: Avatar  | ServerResponse: Success: Movie ATWE101020 Canceled for ATWC3456
+DATE: 2020-03-01 05:30:14 PM ClientID: ATWC4567 | RequestType:   cancelMovie  | RequestParameters:  movieID: ATWE101020 movieName: Avatar  | ServerResponse: Failed: You ATWC4567 Are Not Registered in ATWE101020
+DATE: 2020-03-01 05:30:14 PM ClientID: ATWC7890 | RequestType:   cancelMovie  | RequestParameters:  movieID: ATWE101020 movieName: Avatar  | ServerResponse: Failed: You ATWC7890 Are Not Registered in ATWE101020
+DATE: 2020-03-01 05:30:14 PM ClientID: ATWC6789 | RequestType:   cancelMovie  | RequestParameters:  movieID: ATWE101020 movieName: Avatar  | ServerResponse: Failed: You ATWC6789 Are Not Registered in ATWE101020
+DATE: 2020-03-01 05:30:26 PM ClientID: Movie Admin | RequestType:   addMovie  | RequestParameters:  movieID: ATWE101020 movieName: Avatar bookingCapacity 2  | ServerResponse: Success: Movie ATWE101020 Capacity increased to 2
+DATE: 2020-03-01 05:30:26 PM ClientID: ATWC6789 | RequestType:   bookMovie  | RequestParameters:  movieID: ATWE101020 movieName: Avatar  | ServerResponse: Success: Movie ATWE101020 Booked Successfully
+DATE: 2020-03-01 05:30:26 PM ClientID: ATWC2345 | RequestType:   bookMovie  | RequestParameters:  movieID: ATWE101020 movieName: Avatar  | ServerResponse: Success: Movie ATWE101020 Booked Successfully
+DATE: 2020-03-01 05:30:26 PM ClientID: ATWC3456 | RequestType:   bookMovie  | RequestParameters:  movieID: ATWE101020 movieName: Avatar  | ServerResponse: Failed: Movie ATWE101020 is Full
+DATE: 2020-03-01 05:30:26 PM ClientID: ATWC4567 | RequestType:   bookMovie  | RequestParameters:  movieID: ATWE101020 movieName: Avatar  | ServerResponse: Failed: Movie ATWE101020 is Full
+DATE: 2020-03-01 05:30:26 PM ClientID: ATWC7890 | RequestType:   bookMovie  | RequestParameters:  movieID: ATWE101020 movieName: Avatar  | ServerResponse: Failed: Movie ATWE101020 is Full
+DATE: 2020-03-01 05:30:26 PM ClientID: ATWC2345 | RequestType:   cancelMovie  | RequestParameters:  movieID: ATWE101020 movieName: Avatar  | ServerResponse: Success: Movie ATWE101020 Canceled for ATWC2345
+DATE: 2020-03-01 05:30:26 PM ClientID: ATWC3456 | RequestType:   cancelMovie  | RequestParameters:  movieID: ATWE101020 movieName: Avatar  | ServerResponse: Failed: You ATWC3456 Are Not Registered in ATWE101020
+DATE: 2020-03-01 05:30:26 PM ClientID: ATWC6789 | RequestType:   cancelMovie  | RequestParameters:  movieID: ATWE101020 movieName: Avatar  | ServerResponse: Success: Movie ATWE101020 Canceled for ATWC6789
+DATE: 2020-03-01 05:30:26 PM ClientID: ATWC4567 | RequestType:   cancelMovie  | RequestParameters:  movieID: ATWE101020 movieName: Avatar  | ServerResponse: Failed: You ATWC4567 Are Not Registered in ATWE101020
+DATE: 2020-03-01 05:30:26 PM ClientID: ATWC7890 | RequestType:   cancelMovie  | RequestParameters:  movieID: ATWE101020 movieName: Avatar  | ServerResponse: Failed: You ATWC7890 Are Not Registered in ATWE101020
+DATE: 2020-03-01 05:35:57 PM ClientID: Movie Admin | RequestType:  UDP request sent listMovieAvailability  | RequestParameters:  movieID: null movieName: Avatar  | ServerResponse:  ...
+DATE: 2020-03-01 05:35:57 PM ClientID: Movie Admin | RequestType:  UDP reply receivedlistMovieAvailability  | RequestParameters:  movieID: null movieName: Avatar  | ServerResponse: Outremont Server Avatar:
+ (OUTE080620) in the Evening of 08/06/2020 Total[Remaining] Capacity: 1[1] ||  (OUTE110620) in the Evening of 11/06/2020 Total[Remaining] Capacity: 1[1] ||
+=====================================
+
+DATE: 2020-03-01 05:35:57 PM ClientID: Movie Admin | RequestType:  UDP request sent listMovieAvailability  | RequestParameters:  movieID: null movieName: Avatar  | ServerResponse:  ...
+DATE: 2020-03-01 05:35:57 PM ClientID: Movie Admin | RequestType:  UDP reply receivedlistMovieAvailability  | RequestParameters:  movieID: null movieName: Avatar  | ServerResponse: Verdun Server Avatar:
+No Movies of Type Avatar
+=====================================
+
+DATE: 2020-03-01 05:35:57 PM ClientID: Movie Admin | RequestType:   listMovieAvailability  | RequestParameters:  movieName: Avatar  | ServerResponse: Atwater Server Avatar:
+ (ATWA090620) in the Afternoon of 09/06/2020 Total[Remaining] Capacity: 2[2] ||  (ATWE101020) in the Evening of 10/10/2020 Total[Remaining] Capacity: 2[2] ||
+=====================================
+Outremont Server Avatar:
+ (OUTE080620) in the Evening of 08/06/2020 Total[Remaining] Capacity: 1[1] ||  (OUTE110620) in the Evening of 11/06/2020 Total[Remaining] Capacity: 1[1] ||
+=====================================
+Verdun Server Avatar:
+No Movies of Type Avatar
+=====================================
+
+DATE: 2020-03-01 05:36:43 PM ClientID: ATWC1234 | RequestType:  UDP request sent bookMovie  | RequestParameters:  movieID: OUTE080620 movieName: Avatar  | ServerResponse:  ...
+DATE: 2020-03-01 05:36:43 PM ClientID: ATWC1234 | RequestType:  UDP reply receivedbookMovie  | RequestParameters:  movieID: OUTE080620 movieName: Avatar  | ServerResponse: Success: Movie OUTE080620 Booked Successfully
+DATE: 2020-03-01 05:36:43 PM ClientID: ATWC1234 | RequestType:   bookMovie  | RequestParameters:  movieID: OUTE080620 movieName: Avatar  | ServerResponse: Success: Movie OUTE080620 Booked Successfully
+DATE: 2020-03-01 05:37:26 PM ClientID: ATWC1122 | RequestType:   swapMovie  | RequestParameters:  oldMovieID: OUTE080620 oldMovieName: Avatar newMovieID: OUTE110620 newMovieName: Avatar  | ServerResponse: Failed: You ATWC1122 Are Not Registered in OUTE080620
+DATE: 2020-03-01 05:37:59 PM ClientID: ATWC1234 | RequestType:  UDP request sent bookMovie  | RequestParameters:  movieID: OUTE110620 movieName: Avatar  | ServerResponse:  ...
+DATE: 2020-03-01 05:37:59 PM ClientID: ATWC1234 | RequestType:  UDP reply receivedbookMovie  | RequestParameters:  movieID: OUTE110620 movieName: Avatar  | ServerResponse: Success: Movie OUTE110620 Booked Successfully
+DATE: 2020-03-01 05:37:59 PM ClientID: ATWC1234 | RequestType:   bookMovie  | RequestParameters:  movieID: OUTE110620 movieName: Avatar  | ServerResponse: Success: Movie OUTE110620 Booked Successfully
+DATE: 2020-03-01 05:37:59 PM ClientID: ATWC1234 | RequestType:  UDP request sent cancelMovie  | RequestParameters:  movieID: OUTE080620 movieName: Avatar  | ServerResponse:  ...
+DATE: 2020-03-01 05:37:59 PM ClientID: ATWC1234 | RequestType:  UDP reply receivedcancelMovie  | RequestParameters:  movieID: OUTE080620 movieName: Avatar  | ServerResponse: Success: Movie OUTE080620 Canceled for ATWC1234
+DATE: 2020-03-01 05:37:59 PM ClientID: ATWC1234 | RequestType:   cancelMovie  | RequestParameters:  movieID: OUTE080620 movieName: Avatar  | ServerResponse: Success: Movie OUTE080620 Canceled for ATWC1234
+DATE: 2020-03-01 05:37:59 PM ClientID: ATWC1234 | RequestType:   swapMovie  | RequestParameters:  oldMovieID: OUTE080620 oldMovieName: Avatar newMovieID: OUTE110620 newMovieName: Avatar  | ServerResponse: Success: Movie OUTE080620 swapped with OUTE110620
+DATE: 2020-03-01 05:38:09 PM ClientID: ATWC1234 | RequestType:   getBookingSchedule  | RequestParameters: null | ServerResponse: Avatar:
+OUTE110620 ||
+=====================================
+
+DATE: 2020-03-01 05:38:40 PM ClientID: ATWC1234 | RequestType:   bookMovie  | RequestParameters:  movieID: ATWE101020 movieName: Avatar  | ServerResponse: Success: Movie ATWE101020 Booked Successfully
+DATE: 2020-03-01 05:38:40 PM ClientID: ATWC1234 | RequestType:  UDP request sent cancelMovie  | RequestParameters:  movieID: OUTE110620 movieName: Avatar  | ServerResponse:  ...
+DATE: 2020-03-01 05:38:40 PM ClientID: ATWC1234 | RequestType:  UDP reply receivedcancelMovie  | RequestParameters:  movieID: OUTE110620 movieName: Avatar  | ServerResponse: Success: Movie OUTE110620 Canceled for ATWC1234
+DATE: 2020-03-01 05:38:40 PM ClientID: ATWC1234 | RequestType:   cancelMovie  | RequestParameters:  movieID: OUTE110620 movieName: Avatar  | ServerResponse: Success: Movie OUTE110620 Canceled for ATWC1234
+DATE: 2020-03-01 05:38:40 PM ClientID: ATWC1234 | RequestType:   swapMovie  | RequestParameters:  oldMovieID: OUTE110620 oldMovieName: Avatar newMovieID: ATWE101020 newMovieName: Avatar  | ServerResponse: Success: Movie OUTE110620 swapped with ATWE101020
+DATE: 2020-03-01 05:38:48 PM ClientID: ATWC1234 | RequestType:   getBookingSchedule  | RequestParameters: null | ServerResponse: Avatar:
+ATWE101020 ||
+=====================================
+
+DATE: 2020-03-01 05:39:10 PM ClientID: Movie Admin | RequestType:  UDP request sent listMovieAvailability  | RequestParameters:  movieID: null movieName: Avatar  | ServerResponse:  ...
+DATE: 2020-03-01 05:39:10 PM ClientID: Movie Admin | RequestType:  UDP reply receivedlistMovieAvailability  | RequestParameters:  movieID: null movieName: Avatar  | ServerResponse: Outremont Server Avatar:
+ (OUTE080620) in the Evening of 08/06/2020 Total[Remaining] Capacity: 1[1] ||  (OUTE110620) in the Evening of 11/06/2020 Total[Remaining] Capacity: 1[1] ||
+=====================================
+
+DATE: 2020-03-01 05:39:10 PM ClientID: Movie Admin | RequestType:  UDP request sent listMovieAvailability  | RequestParameters:  movieID: null movieName: Avatar  | ServerResponse:  ...
+DATE: 2020-03-01 05:39:10 PM ClientID: Movie Admin | RequestType:  UDP reply receivedlistMovieAvailability  | RequestParameters:  movieID: null movieName: Avatar  | ServerResponse: Verdun Server Avatar:
+No Movies of Type Avatar
+=====================================
+
+DATE: 2020-03-01 05:39:10 PM ClientID: Movie Admin | RequestType:   listMovieAvailability  | RequestParameters:  movieName: Avatar  | ServerResponse: Atwater Server Avatar:
+ (ATWA090620) in the Afternoon of 09/06/2020 Total[Remaining] Capacity: 2[2] ||  (ATWE101020) in the Evening of 10/10/2020 Total[Remaining] Capacity: 2[1] ||
+=====================================
+Outremont Server Avatar:
+ (OUTE080620) in the Evening of 08/06/2020 Total[Remaining] Capacity: 1[1] ||  (OUTE110620) in the Evening of 11/06/2020 Total[Remaining] Capacity: 1[1] ||
+=====================================
+Verdun Server Avatar:
+No Movies of Type Avatar
+=====================================
+
+DATE: 2020-03-01 05:39:28 PM Exception: org.omg..BAD_INV_ORDER:   vmcid: OMG  minor code: 4  completed: No
+DATE: 2020-03-01 05:39:28 PM  Server Shutting down
+DATE: 2020-03-25 06:44:42 PM  Server Started...
+DATE: 2020-03-25 06:44:45 PM  Server is Up & Running
+DATE: 2020-03-25 06:44:45 PM  Server Shutting down
+DATE: 2020-03-25 06:44:45 PM  UDP Server Started at port 8888
+DATE: 2020-03-25 06:46:13 PM  Server Started...
+DATE: 2020-03-25 06:46:14 PM  Server is Up & Running
+DATE: 2020-03-25 06:46:14 PM  UDP Server Started at port 8888
+DATE: 2020-03-25 06:49:35 PM  Server Started...
+DATE: 2020-03-25 06:49:37 PM  Server is Up & Running
+DATE: 2020-03-25 06:49:37 PM  UDP Server Started at port 8888
+DATE: 2020-03-25 06:50:29 PM ClientID: Movie Admin | RequestType:   addMovie  | RequestParameters:  movieID: ATWE101020 movieName: Avatar bookingCapacity 2  | ServerResponse: Success: Movie ATWE101020 added successfully
+DATE: 2020-03-25 06:50:29 PM ClientID: ATWC2345 | RequestType:   bookMovie  | RequestParameters:  movieID: ATWE101020 movieName: Avatar  | ServerResponse: Success: Movie ATWE101020 Booked Successfully
+DATE: 2020-03-25 06:50:29 PM ClientID: ATWC3456 | RequestType:   bookMovie  | RequestParameters:  movieID: ATWE101020 movieName: Avatar  | ServerResponse: Success: Movie ATWE101020 Booked Successfully
+DATE: 2020-03-25 06:50:29 PM ClientID: ATWC6789 | RequestType:   bookMovie  | RequestParameters:  movieID: ATWE101020 movieName: Avatar  | ServerResponse: Failed: Movie ATWE101020 is Full
+DATE: 2020-03-25 06:50:29 PM ClientID: ATWC7890 | RequestType:   bookMovie  | RequestParameters:  movieID: ATWE101020 movieName: Avatar  | ServerResponse: Failed: Movie ATWE101020 is Full
+DATE: 2020-03-25 06:50:29 PM ClientID: ATWC4567 | RequestType:   bookMovie  | RequestParameters:  movieID: ATWE101020 movieName: Avatar  | ServerResponse: Failed: Movie ATWE101020 is Full
+DATE: 2020-03-25 06:50:29 PM ClientID: ATWC2345 | RequestType:   cancelMovie  | RequestParameters:  movieID: ATWE101020 movieName: Avatar  | ServerResponse: Success: Movie ATWE101020 Canceled for ATWC2345
+DATE: 2020-03-25 06:50:29 PM ClientID: ATWC3456 | RequestType:   cancelMovie  | RequestParameters:  movieID: ATWE101020 movieName: Avatar  | ServerResponse: Success: Movie ATWE101020 Canceled for ATWC3456
+DATE: 2020-03-25 06:50:29 PM ClientID: ATWC6789 | RequestType:   cancelMovie  | RequestParameters:  movieID: ATWE101020 movieName: Avatar  | ServerResponse: Failed: You ATWC6789 Are Not Registered in ATWE101020
+DATE: 2020-03-25 06:50:29 PM ClientID: ATWC7890 | RequestType:   cancelMovie  | RequestParameters:  movieID: ATWE101020 movieName: Avatar  | ServerResponse: Failed: You ATWC7890 Are Not Registered in ATWE101020
+DATE: 2020-03-25 06:50:29 PM ClientID: ATWC4567 | RequestType:   cancelMovie  | RequestParameters:  movieID: ATWE101020 movieName: Avatar  | ServerResponse: Failed: You ATWC4567 Are Not Registered in ATWE101020
+DATE: 2020-03-25 06:51:07 PM ClientID: Movie Admin | RequestType:  UDP request sent listMovieAvailability  | RequestParameters:  movieID: null movieName: Avatar  | ServerResponse:  ...
+DATE: 2020-03-25 06:51:07 PM ClientID: Movie Admin | RequestType:  UDP reply receivedlistMovieAvailability  | RequestParameters:  movieID: null movieName: Avatar  | ServerResponse: Outremont Server Avatar:
+No Movies of Type Avatar
+=====================================
+
+DATE: 2020-03-25 06:51:07 PM ClientID: Movie Admin | RequestType:  UDP request sent listMovieAvailability  | RequestParameters:  movieID: null movieName: Avatar  | ServerResponse:  ...
+DATE: 2020-03-25 06:51:07 PM ClientID: Movie Admin | RequestType:  UDP reply receivedlistMovieAvailability  | RequestParameters:  movieID: null movieName: Avatar  | ServerResponse: Verdun Server Avatar:
+No Movies of Type Avatar
+=====================================
+
+DATE: 2020-03-25 06:51:07 PM ClientID: Movie Admin | RequestType:   listMovieAvailability  | RequestParameters:  movieName: Avatar  | ServerResponse: Atwater Server Avatar:
+ (ATWE101020) in the Evening of 10/10/2020 Total[Remaining] Capacity: 2[2] ||
+=====================================
+Outremont Server Avatar:
+No Movies of Type Avatar
+=====================================
+Verdun Server Avatar:
+No Movies of Type Avatar
+=====================================
+
+DATE: 2020-03-25 06:54:00 PM  Server Started...
+DATE: 2020-03-25 06:54:02 PM  Server is Up & Running
+DATE: 2020-03-25 06:54:02 PM  UDP Server Started at port 8888
+DATE: 2020-03-25 06:54:15 PM ClientID: Movie Admin | RequestType:   addMovie  | RequestParameters:  movieID: ATWE101020 movieName: Avatar bookingCapacity 2  | ServerResponse: Success: Movie ATWE101020 added successfully
+DATE: 2020-03-25 06:54:15 PM ClientID: ATWC2345 | RequestType:   bookMovie  | RequestParameters:  movieID: ATWE101020 movieName: Avatar  | ServerResponse: Success: Movie ATWE101020 Booked Successfully
+DATE: 2020-03-25 06:54:15 PM ClientID: ATWC6789 | RequestType:   bookMovie  | RequestParameters:  movieID: ATWE101020 movieName: Avatar  | ServerResponse: Success: Movie ATWE101020 Booked Successfully
+DATE: 2020-03-25 06:54:15 PM ClientID: ATWC3456 | RequestType:   bookMovie  | RequestParameters:  movieID: ATWE101020 movieName: Avatar  | ServerResponse: Failed: Movie ATWE101020 is Full
+DATE: 2020-03-25 06:54:15 PM ClientID: ATWC7890 | RequestType:   bookMovie  | RequestParameters:  movieID: ATWE101020 movieName: Avatar  | ServerResponse: Failed: Movie ATWE101020 is Full
+DATE: 2020-03-25 06:54:15 PM ClientID: ATWC4567 | RequestType:   bookMovie  | RequestParameters:  movieID: ATWE101020 movieName: Avatar  | ServerResponse: Failed: Movie ATWE101020 is Full
+DATE: 2020-03-25 06:54:15 PM ClientID: ATWC2345 | RequestType:   cancelMovie  | RequestParameters:  movieID: ATWE101020 movieName: Avatar  | ServerResponse: Success: Movie ATWE101020 Canceled for ATWC2345
+DATE: 2020-03-25 06:54:15 PM ClientID: ATWC6789 | RequestType:   cancelMovie  | RequestParameters:  movieID: ATWE101020 movieName: Avatar  | ServerResponse: Success: Movie ATWE101020 Canceled for ATWC6789
+DATE: 2020-03-25 06:54:15 PM ClientID: ATWC7890 | RequestType:   cancelMovie  | RequestParameters:  movieID: ATWE101020 movieName: Avatar  | ServerResponse: Failed: You ATWC7890 Are Not Registered in ATWE101020
+DATE: 2020-03-25 06:54:15 PM ClientID: ATWC4567 | RequestType:   cancelMovie  | RequestParameters:  movieID: ATWE101020 movieName: Avatar  | ServerResponse: Failed: You ATWC4567 Are Not Registered in ATWE101020
+DATE: 2020-03-25 06:54:15 PM ClientID: ATWC3456 | RequestType:   cancelMovie  | RequestParameters:  movieID: ATWE101020 movieName: Avatar  | ServerResponse: Failed: You ATWC3456 Are Not Registered in ATWE101020
+DATE: 2020-03-25 06:54:32 PM ClientID: Movie Admin | RequestType:  UDP request sent listMovieAvailability  | RequestParameters:  movieID: null movieName: Avatar  | ServerResponse:  ...
+DATE: 2020-03-25 06:54:32 PM ClientID: Movie Admin | RequestType:  UDP reply receivedlistMovieAvailability  | RequestParameters:  movieID: null movieName: Avatar  | ServerResponse: Outremont Server Avatar:
+No Movies of Type Avatar
+=====================================
+
+DATE: 2020-03-25 06:54:32 PM ClientID: Movie Admin | RequestType:  UDP request sent listMovieAvailability  | RequestParameters:  movieID: null movieName: Avatar  | ServerResponse:  ...
+DATE: 2020-03-25 06:54:32 PM ClientID: Movie Admin | RequestType:  UDP reply receivedlistMovieAvailability  | RequestParameters:  movieID: null movieName: Avatar  | ServerResponse: Verdun Server Avatar:
+No Movies of Type Avatar
+=====================================
+
+DATE: 2020-03-25 06:54:32 PM ClientID: Movie Admin | RequestType:   listMovieAvailability  | RequestParameters:  movieName: Avatar  | ServerResponse: Atwater Server Avatar:
+ (ATWE101020) in the Evening of 10/10/2020 Total[Remaining] Capacity: 2[2] ||
+=====================================
+Outremont Server Avatar:
+No Movies of Type Avatar
+=====================================
+Verdun Server Avatar:
+No Movies of Type Avatar
+=====================================
+
+DATE: 2020-03-25 06:54:52 PM ClientID: Movie Admin | RequestType:  UDP request received listMovieAvailability  | RequestParameters:  movieName: Avatar  | ServerResponse:  ...
+DATE: 2020-03-25 06:54:52 PM ClientID: Movie Admin | RequestType:  UDP reply sent listMovieAvailability  | RequestParameters:  movieID: null movieName: Avatar  | ServerResponse: Atwater Server Avatar:
+ (ATWE101020) in the Evening of 10/10/2020 Total[Remaining] Capacity: 2[2] ||
+=====================================
+;
+DATE: 2020-03-25 06:56:50 PM  Server Started...
+DATE: 2020-03-25 06:56:51 PM  Server is Up & Running
+DATE: 2020-03-25 06:56:51 PM  UDP Server Started at port 8888
+DATE: 2020-03-26 05:27:37 PM  Server Started...
+DATE: 2020-03-26 05:27:38 PM  Server is Up & Running
+DATE: 2020-03-26 05:27:38 PM  UDP Server Started at port 8888
+DATE: 2020-03-26 06:21:29 PM ClientID: Movie Admin | RequestType:   addMovie  | RequestParameters:  movieID: ATWE101020 movieName: Avatar bookingCapacity 2  | ServerResponse: Success: Movie ATWE101020 added successfully
+DATE: 2020-03-26 06:21:29 PM ClientID: ATWC2345 | RequestType:   bookMovie  | RequestParameters:  movieID: ATWE101020 movieName: Avatar  | ServerResponse: Success: Movie ATWE101020 Booked Successfully
+DATE: 2020-03-26 06:21:29 PM ClientID: ATWC6789 | RequestType:   bookMovie  | RequestParameters:  movieID: ATWE101020 movieName: Avatar  | ServerResponse: Success: Movie ATWE101020 Booked Successfully
+DATE: 2020-03-26 06:21:29 PM ClientID: ATWC4567 | RequestType:   bookMovie  | RequestParameters:  movieID: ATWE101020 movieName: Avatar  | ServerResponse: Failed: Movie ATWE101020 is Full
+DATE: 2020-03-26 06:21:29 PM ClientID: ATWC3456 | RequestType:   bookMovie  | RequestParameters:  movieID: ATWE101020 movieName: Avatar  | ServerResponse: Failed: Movie ATWE101020 is Full
+DATE: 2020-03-26 06:21:29 PM ClientID: ATWC7890 | RequestType:   bookMovie  | RequestParameters:  movieID: ATWE101020 movieName: Avatar  | ServerResponse: Failed: Movie ATWE101020 is Full
+DATE: 2020-03-26 06:21:29 PM ClientID: ATWC6789 | RequestType:   cancelMovie  | RequestParameters:  movieID: ATWE101020 movieName: Avatar  | ServerResponse: Success: Movie ATWE101020 Canceled for ATWC6789
+DATE: 2020-03-26 06:21:29 PM ClientID: ATWC2345 | RequestType:   cancelMovie  | RequestParameters:  movieID: ATWE101020 movieName: Avatar  | ServerResponse: Success: Movie ATWE101020 Canceled for ATWC2345
+DATE: 2020-03-26 06:21:29 PM ClientID: ATWC4567 | RequestType:   cancelMovie  | RequestParameters:  movieID: ATWE101020 movieName: Avatar  | ServerResponse: Failed: You ATWC4567 Are Not Registered in ATWE101020
+DATE: 2020-03-26 06:21:29 PM ClientID: ATWC3456 | RequestType:   cancelMovie  | RequestParameters:  movieID: ATWE101020 movieName: Avatar  | ServerResponse: Failed: You ATWC3456 Are Not Registered in ATWE101020
+DATE: 2020-03-26 06:21:29 PM ClientID: ATWC7890 | RequestType:   cancelMovie  | RequestParameters:  movieID: ATWE101020 movieName: Avatar  | ServerResponse: Failed: You ATWC7890 Are Not Registered in ATWE101020
+DATE: 2020-03-26 06:22:01 PM ClientID: Movie Admin | RequestType:  UDP request sent listMovieAvailability  | RequestParameters:  movieID: null movieName: Avatar  | ServerResponse:  ...
+DATE: 2020-03-26 06:22:01 PM ClientID: Movie Admin | RequestType:  UDP reply receivedlistMovieAvailability  | RequestParameters:  movieID: null movieName: Avatar  | ServerResponse: Outremont Server Avatar:
+No Movies of Type Avatar
+=====================================
+
+DATE: 2020-03-26 06:22:01 PM ClientID: Movie Admin | RequestType:  UDP request sent listMovieAvailability  | RequestParameters:  movieID: null movieName: Avatar  | ServerResponse:  ...
+DATE: 2020-03-26 06:22:01 PM ClientID: Movie Admin | RequestType:  UDP reply receivedlistMovieAvailability  | RequestParameters:  movieID: null movieName: Avatar  | ServerResponse: Verdun Server Avatar:
+No Movies of Type Avatar
+=====================================
+
+DATE: 2020-03-26 06:22:01 PM ClientID: Movie Admin | RequestType:   listMovieAvailability  | RequestParameters:  movieName: Avatar  | ServerResponse: Atwater Server Avatar:
+ (ATWE101020) in the Evening of 10/10/2020 Total[Remaining] Capacity: 2[2] ||
+=====================================
+Outremont Server Avatar:
+No Movies of Type Avatar
+=====================================
+Verdun Server Avatar:
+No Movies of Type Avatar
+=====================================
+
+DATE: 2020-03-26 06:22:36 PM ClientID: OUTC1234 | RequestType:  UDP request received bookMovie  | RequestParameters:  movieID: ATWE101020 movieName: Avatar  | ServerResponse:  ...
+DATE: 2020-03-26 06:22:36 PM ClientID: OUTC1234 | RequestType:   bookMovie  | RequestParameters:  movieID: ATWE101020 movieName: Avatar  | ServerResponse: Success: Movie ATWE101020 Booked Successfully
+DATE: 2020-03-26 06:22:36 PM ClientID: OUTC1234 | RequestType:  UDP reply sent bookMovie  | RequestParameters:  movieID: ATWE101020 movieName: Avatar  | ServerResponse: Success: Movie ATWE101020 Booked Successfully;
+DATE: 2020-03-26 06:22:52 PM ClientID: OUTC1234 | RequestType:  UDP request received cancelMovie  | RequestParameters:  movieID: ATWE101020 movieName: Avatar  | ServerResponse:  ...
+DATE: 2020-03-26 06:22:52 PM ClientID: OUTC1234 | RequestType:   cancelMovie  | RequestParameters:  movieID: ATWE101020 movieName: Avatar  | ServerResponse: Success: Movie ATWE101020 Canceled for OUTC1234
+DATE: 2020-03-26 06:22:52 PM ClientID: OUTC1234 | RequestType:  UDP reply sent cancelMovie  | RequestParameters:  movieID: ATWE101020 movieName: Avatar  | ServerResponse: Success: Movie ATWE101020 Canceled for OUTC1234;
+DATE: 2020-03-26 06:27:15 PM  Server Started...
+DATE: 2020-03-26 06:27:17 PM  Server is Up & Running
+DATE: 2020-03-26 06:27:17 PM  UDP Server Started at port 8888
+DATE: 2020-03-26 06:27:35 PM ClientID: ATWC1234 | RequestType:   getBookingSchedule  | RequestParameters: null | ServerResponse: Booking Schedule Empty For ATWC1234
+DATE: 2020-03-26 06:28:02 PM ClientID: ATWC1111 | RequestType:   getBookingSchedule  | RequestParameters: null | ServerResponse: Booking Schedule Empty For ATWC1111
+DATE: 2020-03-26 06:28:38 PM ClientID: ATWC1111 | RequestType:   getBookingSchedule  | RequestParameters: null | ServerResponse: Avengers:
+
+=====================================
+Avatar:
+
+=====================================
+Titanic:
+
+=====================================
+
+DATE: 2020-04-03 01:43:36 PM  Server Started...
+DATE: 2020-04-03 01:43:37 PM  Server is Up & Running
+DATE: 2020-04-03 01:43:37 PM  UDP Server Started at port 8888
+DATE: 2020-04-03 01:44:01 PM ClientID: Movie Admin | RequestType:   addMovie  | RequestParameters:  movieID: ATWE101020 movieName: Avatar bookingCapacity 2  | ServerResponse: Success: Movie ATWE101020 added successfully
+DATE: 2020-04-03 01:44:01 PM ClientID: ATWC3456 | RequestType:   bookMovie  | RequestParameters:  movieID: ATWE101020 movieName: Avatar  | ServerResponse: Success: Movie ATWE101020 Booked Successfully
+DATE: 2020-04-03 01:44:01 PM ClientID: ATWC2345 | RequestType:   bookMovie  | RequestParameters:  movieID: ATWE101020 movieName: Avatar  | ServerResponse: Success: Movie ATWE101020 Booked Successfully
+DATE: 2020-04-03 01:44:01 PM ClientID: ATWC4567 | RequestType:   bookMovie  | RequestParameters:  movieID: ATWE101020 movieName: Avatar  | ServerResponse: Failed: Movie ATWE101020 is Full
+DATE: 2020-04-03 01:44:01 PM ClientID: ATWC7890 | RequestType:   bookMovie  | RequestParameters:  movieID: ATWE101020 movieName: Avatar  | ServerResponse: Failed: Movie ATWE101020 is Full
+DATE: 2020-04-03 01:44:01 PM ClientID: ATWC6789 | RequestType:   bookMovie  | RequestParameters:  movieID: ATWE101020 movieName: Avatar  | ServerResponse: Failed: Movie ATWE101020 is Full
+DATE: 2020-04-03 01:44:01 PM ClientID: ATWC3456 | RequestType:   cancelMovie  | RequestParameters:  movieID: ATWE101020 movieName: Avatar  | ServerResponse: Success: Movie ATWE101020 Canceled for ATWC3456
+DATE: 2020-04-03 01:44:01 PM ClientID: ATWC2345 | RequestType:   cancelMovie  | RequestParameters:  movieID: ATWE101020 movieName: Avatar  | ServerResponse: Success: Movie ATWE101020 Canceled for ATWC2345
+DATE: 2020-04-03 01:44:01 PM ClientID: ATWC4567 | RequestType:   cancelMovie  | RequestParameters:  movieID: ATWE101020 movieName: Avatar  | ServerResponse: Failed: You ATWC4567 Are Not Registered in ATWE101020
+DATE: 2020-04-03 01:44:01 PM ClientID: ATWC6789 | RequestType:   cancelMovie  | RequestParameters:  movieID: ATWE101020 movieName: Avatar  | ServerResponse: Failed: You ATWC6789 Are Not Registered in ATWE101020
+DATE: 2020-04-03 01:44:01 PM ClientID: ATWC7890 | RequestType:   cancelMovie  | RequestParameters:  movieID: ATWE101020 movieName: Avatar  | ServerResponse: Failed: You ATWC7890 Are Not Registered in ATWE101020
+DATE: 2020-04-03 01:44:08 PM ClientID: Movie Admin | RequestType:   addMovie  | RequestParameters:  movieID: ATWE101020 movieName: Avatar bookingCapacity 2  | ServerResponse: Success: Movie ATWE101020 Capacity increased to 2
+DATE: 2020-04-03 01:44:08 PM ClientID: ATWC2345 | RequestType:   bookMovie  | RequestParameters:  movieID: ATWE101020 movieName: Avatar  | ServerResponse: Success: Movie ATWE101020 Booked Successfully
+DATE: 2020-04-03 01:44:08 PM ClientID: ATWC6789 | RequestType:   bookMovie  | RequestParameters:  movieID: ATWE101020 movieName: Avatar  | ServerResponse: Success: Movie ATWE101020 Booked Successfully
+DATE: 2020-04-03 01:44:08 PM ClientID: ATWC3456 | RequestType:   bookMovie  | RequestParameters:  movieID: ATWE101020 movieName: Avatar  | ServerResponse: Failed: Movie ATWE101020 is Full
+DATE: 2020-04-03 01:44:08 PM ClientID: ATWC7890 | RequestType:   bookMovie  | RequestParameters:  movieID: ATWE101020 movieName: Avatar  | ServerResponse: Failed: Movie ATWE101020 is Full
+DATE: 2020-04-03 01:44:08 PM ClientID: ATWC4567 | RequestType:   bookMovie  | RequestParameters:  movieID: ATWE101020 movieName: Avatar  | ServerResponse: Failed: Movie ATWE101020 is Full
+DATE: 2020-04-03 01:44:08 PM ClientID: ATWC2345 | RequestType:   cancelMovie  | RequestParameters:  movieID: ATWE101020 movieName: Avatar  | ServerResponse: Success: Movie ATWE101020 Canceled for ATWC2345
+DATE: 2020-04-03 01:44:08 PM ClientID: ATWC3456 | RequestType:   cancelMovie  | RequestParameters:  movieID: ATWE101020 movieName: Avatar  | ServerResponse: Failed: You ATWC3456 Are Not Registered in ATWE101020
+DATE: 2020-04-03 01:44:08 PM ClientID: ATWC6789 | RequestType:   cancelMovie  | RequestParameters:  movieID: ATWE101020 movieName: Avatar  | ServerResponse: Success: Movie ATWE101020 Canceled for ATWC6789
+DATE: 2020-04-03 01:44:08 PM ClientID: ATWC4567 | RequestType:   cancelMovie  | RequestParameters:  movieID: ATWE101020 movieName: Avatar  | ServerResponse: Failed: You ATWC4567 Are Not Registered in ATWE101020
+DATE: 2020-04-03 01:44:08 PM ClientID: ATWC7890 | RequestType:   cancelMovie  | RequestParameters:  movieID: ATWE101020 movieName: Avatar  | ServerResponse: Failed: You ATWC7890 Are Not Registered in ATWE101020
+DATE: 2020-04-03 01:44:18 PM ClientID: Movie Admin | RequestType:   addMovie  | RequestParameters:  movieID: ATWE101020 movieName: Avatar bookingCapacity 2  | ServerResponse: Success: Movie ATWE101020 Capacity increased to 2
+DATE: 2020-04-03 01:44:18 PM ClientID: ATWC3456 | RequestType:   bookMovie  | RequestParameters:  movieID: ATWE101020 movieName: Avatar  | ServerResponse: Success: Movie ATWE101020 Booked Successfully
+DATE: 2020-04-03 01:44:18 PM ClientID: ATWC4567 | RequestType:   bookMovie  | RequestParameters:  movieID: ATWE101020 movieName: Avatar  | ServerResponse: Success: Movie ATWE101020 Booked Successfully
+DATE: 2020-04-03 01:44:18 PM ClientID: ATWC7890 | RequestType:   bookMovie  | RequestParameters:  movieID: ATWE101020 movieName: Avatar  | ServerResponse: Failed: Movie ATWE101020 is Full
+DATE: 2020-04-03 01:44:18 PM ClientID: ATWC2345 | RequestType:   bookMovie  | RequestParameters:  movieID: ATWE101020 movieName: Avatar  | ServerResponse: Failed: Movie ATWE101020 is Full
+DATE: 2020-04-03 01:44:18 PM ClientID: ATWC3456 | RequestType:   cancelMovie  | RequestParameters:  movieID: ATWE101020 movieName: Avatar  | ServerResponse: Success: Movie ATWE101020 Canceled for ATWC3456
+DATE: 2020-04-03 01:44:18 PM ClientID: ATWC6789 | RequestType:   bookMovie  | RequestParameters:  movieID: ATWE101020 movieName: Avatar  | ServerResponse: Success: Movie ATWE101020 Booked Successfully
+DATE: 2020-04-03 01:44:18 PM ClientID: ATWC7890 | RequestType:   cancelMovie  | RequestParameters:  movieID: ATWE101020 movieName: Avatar  | ServerResponse: Failed: You ATWC7890 Are Not Registered in ATWE101020
+DATE: 2020-04-03 01:44:18 PM ClientID: ATWC2345 | RequestType:   cancelMovie  | RequestParameters:  movieID: ATWE101020 movieName: Avatar  | ServerResponse: Failed: You ATWC2345 Are Not Registered in ATWE101020
+DATE: 2020-04-03 01:44:18 PM ClientID: ATWC4567 | RequestType:   cancelMovie  | RequestParameters:  movieID: ATWE101020 movieName: Avatar  | ServerResponse: Success: Movie ATWE101020 Canceled for ATWC4567
+DATE: 2020-04-03 01:44:18 PM ClientID: ATWC6789 | RequestType:   cancelMovie  | RequestParameters:  movieID: ATWE101020 movieName: Avatar  | ServerResponse: Success: Movie ATWE101020 Canceled for ATWC6789
+DATE: 2020-04-03 01:44:36 PM ClientID: Movie Admin | RequestType:  UDP request sent listMovieAvailability  | RequestParameters:  movieID: null movieName: Avatar  | ServerResponse:  ...
+DATE: 2020-04-03 01:44:36 PM ClientID: Movie Admin | RequestType:  UDP reply receivedlistMovieAvailability  | RequestParameters:  movieID: null movieName: Avatar  | ServerResponse: Outremont Server Avatar:
+No Movies of Type Avatar
+=====================================
+
+DATE: 2020-04-03 01:44:36 PM ClientID: Movie Admin | RequestType:  UDP request sent listMovieAvailability  | RequestParameters:  movieID: null movieName: Avatar  | ServerResponse:  ...
+DATE: 2020-04-03 01:44:36 PM ClientID: Movie Admin | RequestType:  UDP reply receivedlistMovieAvailability  | RequestParameters:  movieID: null movieName: Avatar  | ServerResponse: Verdun Server Avatar:
+No Movies of Type Avatar
+=====================================
+
+DATE: 2020-04-03 01:44:36 PM ClientID: Movie Admin | RequestType:   listMovieAvailability  | RequestParameters:  movieName: Avatar  | ServerResponse: Atwater Server Avatar:
+ (ATWE101020) in the Evening of 10/10/2020 Total[Remaining] Capacity: 2[2] ||
+=====================================
+Outremont Server Avatar:
+No Movies of Type Avatar
+=====================================
+Verdun Server Avatar:
+No Movies of Type Avatar
+=====================================
+
+DATE: 2020-04-22 03:38:14 PM  Server Started...
+DATE: 2020-04-22 03:38:16 PM  Server is Up & Running
+DATE: 2020-04-22 03:38:16 PM  UDP Server Started at port 8888
+DATE: 2020-04-22 03:38:21 PM ClientID: Movie Admin | RequestType:   addMovie  | RequestParameters:  movieID: ATWA080820 movieName: Avatar bookingCapacity 2  | ServerResponse: Success: Movie ATWA080820 added successfully
+DATE: 2020-04-22 03:38:21 PM ClientID: Movie Admin | RequestType:   addMovie  | RequestParameters:  movieID: ATWM110820 movieName: Avengers bookingCapacity 1  | ServerResponse: Success: Movie ATWM110820 added successfully
+DATE: 2020-04-22 03:38:21 PM ClientID: Movie Admin | RequestType:   addMovie  | RequestParameters:  movieID: ATWM120820 movieName: Avengers bookingCapacity 1  | ServerResponse: Success: Movie ATWM120820 added successfully
+DATE: 2020-04-22 03:38:21 PM ClientID: OUTC1234 | RequestType:  UDP request received bookMovie  | RequestParameters:  movieID: ATWA080820 movieName: Avatar  | ServerResponse:  ...
+DATE: 2020-04-22 03:38:21 PM ClientID: OUTC1234 | RequestType:   bookMovie  | RequestParameters:  movieID: ATWA080820 movieName: Avatar  | ServerResponse: Success: Movie ATWA080820 Booked Successfully
+DATE: 2020-04-22 03:38:21 PM ClientID: OUTC1234 | RequestType:  UDP reply sent bookMovie  | RequestParameters:  movieID: ATWA080820 movieName: Avatar  | ServerResponse: Success: Movie ATWA080820 Booked Successfully;
+DATE: 2020-04-22 03:38:21 PM ClientID: OUTC1234 | RequestType:  UDP request received bookMovie  | RequestParameters:  movieID: ATWM110820 movieName: Avengers  | ServerResponse:  ...
+DATE: 2020-04-22 03:38:21 PM ClientID: OUTC1234 | RequestType:   bookMovie  | RequestParameters:  movieID: ATWM110820 movieName: Avengers  | ServerResponse: Success: Movie ATWM110820 Booked Successfully
+DATE: 2020-04-22 03:38:21 PM ClientID: OUTC1234 | RequestType:  UDP reply sent bookMovie  | RequestParameters:  movieID: ATWM110820 movieName: Avengers  | ServerResponse: Success: Movie ATWM110820 Booked Successfully;
+DATE: 2020-04-22 03:38:53 PM  Server Started...
+DATE: 2020-04-22 03:38:54 PM  Server is Up & Running
+DATE: 2020-04-22 03:38:54 PM  UDP Server Started at port 8888
+DATE: 2020-04-22 03:38:59 PM ClientID: Movie Admin | RequestType:   addMovie  | RequestParameters:  movieID: ATWA080820 movieName: Avatar bookingCapacity 2  | ServerResponse: Success: Movie ATWA080820 added successfully
+DATE: 2020-04-22 03:38:59 PM ClientID: Movie Admin | RequestType:   addMovie  | RequestParameters:  movieID: ATWM110820 movieName: Avengers bookingCapacity 1  | ServerResponse: Success: Movie ATWM110820 added successfully
+DATE: 2020-04-22 03:38:59 PM ClientID: Movie Admin | RequestType:   addMovie  | RequestParameters:  movieID: ATWM120820 movieName: Avengers bookingCapacity 1  | ServerResponse: Success: Movie ATWM120820 added successfully
+DATE: 2020-04-22 03:38:59 PM ClientID: OUTC1234 | RequestType:  UDP request received bookMovie  | RequestParameters:  movieID: ATWA080820 movieName: Avatar  | ServerResponse:  ...
+DATE: 2020-04-22 03:38:59 PM ClientID: OUTC1234 | RequestType:   bookMovie  | RequestParameters:  movieID: ATWA080820 movieName: Avatar  | ServerResponse: Success: Movie ATWA080820 Booked Successfully
+DATE: 2020-04-22 03:38:59 PM ClientID: OUTC1234 | RequestType:  UDP reply sent bookMovie  | RequestParameters:  movieID: ATWA080820 movieName: Avatar  | ServerResponse: Success: Movie ATWA080820 Booked Successfully;
+DATE: 2020-04-22 03:38:59 PM ClientID: OUTC1234 | RequestType:  UDP request received bookMovie  | RequestParameters:  movieID: ATWM110820 movieName: Avengers  | ServerResponse:  ...
+DATE: 2020-04-22 03:38:59 PM ClientID: OUTC1234 | RequestType:   bookMovie  | RequestParameters:  movieID: ATWM110820 movieName: Avengers  | ServerResponse: Success: Movie ATWM110820 Booked Successfully
+DATE: 2020-04-22 03:38:59 PM ClientID: OUTC1234 | RequestType:  UDP reply sent bookMovie  | RequestParameters:  movieID: ATWM110820 movieName: Avengers  | ServerResponse: Success: Movie ATWM110820 Booked Successfully;
+DATE: 2020-04-22 03:39:18 PM ClientID: Movie Admin | RequestType:  UDP request sent listMovieAvailability  | RequestParameters:  movieID: null movieName: Avatar  | ServerResponse:  ...
+DATE: 2020-04-22 03:39:18 PM ClientID: Movie Admin | RequestType:  UDP reply receivedlistMovieAvailability  | RequestParameters:  movieID: null movieName: Avatar  | ServerResponse: Outremont Server Avatar:
+No Movies of Type Avatar
+=====================================
+
+DATE: 2020-04-22 03:39:18 PM ClientID: Movie Admin | RequestType:  UDP request sent listMovieAvailability  | RequestParameters:  movieID: null movieName: Avatar  | ServerResponse:  ...
+DATE: 2020-04-22 03:39:18 PM ClientID: Movie Admin | RequestType:  UDP reply receivedlistMovieAvailability  | RequestParameters:  movieID: null movieName: Avatar  | ServerResponse: Verdun Server Avatar:
+No Movies of Type Avatar
+=====================================
+
+DATE: 2020-04-22 03:39:18 PM ClientID: Movie Admin | RequestType:   listMovieAvailability  | RequestParameters:  movieName: Avatar  | ServerResponse: Atwater Server Avatar:
+ (ATWA080820) in the Afternoon of 08/08/2020 Total[Remaining] Capacity: 2[1] ||
+=====================================
+Outremont Server Avatar:
+No Movies of Type Avatar
+=====================================
+Verdun Server Avatar:
+No Movies of Type Avatar
+=====================================
+
+DATE: 2020-04-22 03:39:37 PM ClientID: Movie Admin | RequestType:  UDP request sent listMovieAvailability  | RequestParameters:  movieID: null movieName: Avengers  | ServerResponse:  ...
+DATE: 2020-04-22 03:39:37 PM ClientID: Movie Admin | RequestType:  UDP reply receivedlistMovieAvailability  | RequestParameters:  movieID: null movieName: Avengers  | ServerResponse: Outremont Server Avengers:
+No Movies of Type Avengers
+=====================================
+
+DATE: 2020-04-22 03:39:37 PM ClientID: Movie Admin | RequestType:  UDP request sent listMovieAvailability  | RequestParameters:  movieID: null movieName: Avengers  | ServerResponse:  ...
+DATE: 2020-04-22 03:39:37 PM ClientID: Movie Admin | RequestType:  UDP reply receivedlistMovieAvailability  | RequestParameters:  movieID: null movieName: Avengers  | ServerResponse: Verdun Server Avengers:
+ (VERA250820) in the Afternoon of 25/08/2020 Total[Remaining] Capacity: 1[0] ||
+=====================================
+
+DATE: 2020-04-22 03:39:37 PM ClientID: Movie Admin | RequestType:   listMovieAvailability  | RequestParameters:  movieName: Avengers  | ServerResponse: Atwater Server Avengers:
+ (ATWM110820) in the Morning of 11/08/2020 Total[Remaining] Capacity: 1[0] ||  (ATWM120820) in the Morning of 12/08/2020 Total[Remaining] Capacity: 1[1] ||
+=====================================
+Outremont Server Avengers:
+No Movies of Type Avengers
+=====================================
+Verdun Server Avengers:
+ (VERA250820) in the Afternoon of 25/08/2020 Total[Remaining] Capacity: 1[0] ||
+=====================================
+
+DATE: 2020-04-22 03:39:49 PM ClientID: Movie Admin | RequestType:  UDP request sent listMovieAvailability  | RequestParameters:  movieID: null movieName: Titanic  | ServerResponse:  ...
+DATE: 2020-04-22 03:39:49 PM ClientID: Movie Admin | RequestType:  UDP reply receivedlistMovieAvailability  | RequestParameters:  movieID: null movieName: Titanic  | ServerResponse: Outremont Server Titanic:
+ (OUTE080820) in the Evening of 08/08/2020 Total[Remaining] Capacity: 1[0] ||
+=====================================
+
+DATE: 2020-04-22 03:39:49 PM ClientID: Movie Admin | RequestType:  UDP request sent listMovieAvailability  | RequestParameters:  movieID: null movieName: Titanic  | ServerResponse:  ...
+DATE: 2020-04-22 03:39:49 PM ClientID: Movie Admin | RequestType:  UDP reply receivedlistMovieAvailability  | RequestParameters:  movieID: null movieName: Titanic  | ServerResponse: Verdun Server Titanic:
+ (VERE150820) in the Evening of 15/08/2020 Total[Remaining] Capacity: 1[1] ||
+=====================================
+
+DATE: 2020-04-22 03:39:49 PM ClientID: Movie Admin | RequestType:   listMovieAvailability  | RequestParameters:  movieName: Titanic  | ServerResponse: Atwater Server Titanic:
+No Movies of Type Titanic
+
+=====================================
+Outremont Server Titanic:
+ (OUTE080820) in the Evening of 08/08/2020 Total[Remaining] Capacity: 1[0] ||
+=====================================
+Verdun Server Titanic:
+ (VERE150820) in the Evening of 15/08/2020 Total[Remaining] Capacity: 1[1] ||
+=====================================
+
+DATE: 2020-04-22 03:41:02 PM ClientID: OUTC1234 | RequestType:  UDP request sent removeMovie  | RequestParameters:  movieID: ATWM110820:ATWM120820 movieName: Avengers  | ServerResponse:  ...
+DATE: 2020-04-22 03:41:02 PM ClientID: OUTC1234 | RequestType:  UDP request received bookMovie  | RequestParameters:  movieID: ATWM120820 movieName: Avengers  | ServerResponse:  ...
+DATE: 2020-04-22 03:41:02 PM ClientID: OUTC1234 | RequestType:   bookMovie  | RequestParameters:  movieID: ATWM120820 movieName: Avengers  | ServerResponse: Success: Movie ATWM120820 Booked Successfully
+DATE: 2020-04-22 03:41:02 PM ClientID: OUTC1234 | RequestType:  UDP reply sent bookMovie  | RequestParameters:  movieID: ATWM120820 movieName: Avengers  | ServerResponse: Success: Movie ATWM120820 Booked Successfully;
+DATE: 2020-04-22 03:41:02 PM ClientID: OUTC1234 | RequestType:  UDP reply receivedremoveMovie  | RequestParameters:  movieID: ATWM110820:ATWM120820 movieName: Avengers  | ServerResponse: Success: Movie ATWM110820 Was Removed from OUTC1234 Schedule
+DATE: 2020-04-22 03:41:02 PM ClientID: Movie Admin | RequestType:   removeMovie  | RequestParameters:  movieID: ATWM110820 movieName: Avengers  | ServerResponse: Success: Movie ATWM110820 Removed Successfully
+DATE: 2020-04-22 03:41:07 PM ClientID: Movie Admin | RequestType:  UDP request sent listMovieAvailability  | RequestParameters:  movieID: null movieName: Avengers  | ServerResponse:  ...
+DATE: 2020-04-22 03:41:07 PM ClientID: Movie Admin | RequestType:  UDP reply receivedlistMovieAvailability  | RequestParameters:  movieID: null movieName: Avengers  | ServerResponse: Outremont Server Avengers:
+No Movies of Type Avengers
+=====================================
+
+DATE: 2020-04-22 03:41:07 PM ClientID: Movie Admin | RequestType:  UDP request sent listMovieAvailability  | RequestParameters:  movieID: null movieName: Avengers  | ServerResponse:  ...
+DATE: 2020-04-22 03:41:07 PM ClientID: Movie Admin | RequestType:  UDP reply receivedlistMovieAvailability  | RequestParameters:  movieID: null movieName: Avengers  | ServerResponse: Verdun Server Avengers:
+ (VERA250820) in the Afternoon of 25/08/2020 Total[Remaining] Capacity: 1[0] ||
+=====================================
+
+DATE: 2020-04-22 03:41:07 PM ClientID: Movie Admin | RequestType:   listMovieAvailability  | RequestParameters:  movieName: Avengers  | ServerResponse: Atwater Server Avengers:
+ (ATWM120820) in the Morning of 12/08/2020 Total[Remaining] Capacity: 1[0] ||
+=====================================
+Outremont Server Avengers:
+No Movies of Type Avengers
+=====================================
+Verdun Server Avengers:
+ (VERA250820) in the Afternoon of 25/08/2020 Total[Remaining] Capacity: 1[0] ||
+=====================================
+
+DATE: 2020-04-22 03:41:44 PM ClientID: ATWC1111 | RequestType:   getBookingSchedule  | RequestParameters: null | ServerResponse: Booking Schedule Empty For ATWC1111
+DATE: 2020-04-22 03:43:29 PM ClientID: OUTC1234 | RequestType:  UDP request sent removeMovie  | RequestParameters:  movieID: ATWM120820:null movieName: Avengers  | ServerResponse:  ...
+DATE: 2020-04-22 03:43:29 PM ClientID: OUTC1234 | RequestType:  UDP reply receivedremoveMovie  | RequestParameters:  movieID: ATWM120820:null movieName: Avengers  | ServerResponse: Success: Movie ATWM120820 Was Removed from OUTC1234 Schedule
+DATE: 2020-04-22 03:43:29 PM ClientID: OUTC1234 | RequestType:  addCustomersToNextSameMovie  | RequestParameters:  oldMovieID: ATWM120820 movieName: Avengers  | ServerResponse: Acquiring nextSameMovie for Client (OUTC1234):Failed
+DATE: 2020-04-22 03:43:29 PM ClientID: Movie Admin | RequestType:   removeMovie  | RequestParameters:  movieID: ATWM120820 movieName: Avengers  | ServerResponse: Success: Movie ATWM120820 Removed Successfully
+DATE: 2020-04-22 03:43:39 PM ClientID: Movie Admin | RequestType:  UDP request sent listMovieAvailability  | RequestParameters:  movieID: null movieName: Avengers  | ServerResponse:  ...
+DATE: 2020-04-22 03:43:39 PM ClientID: Movie Admin | RequestType:  UDP reply receivedlistMovieAvailability  | RequestParameters:  movieID: null movieName: Avengers  | ServerResponse: Outremont Server Avengers:
+No Movies of Type Avengers
+=====================================
+
+DATE: 2020-04-22 03:43:39 PM ClientID: Movie Admin | RequestType:  UDP request sent listMovieAvailability  | RequestParameters:  movieID: null movieName: Avengers  | ServerResponse:  ...
+DATE: 2020-04-22 03:43:39 PM ClientID: Movie Admin | RequestType:  UDP reply receivedlistMovieAvailability  | RequestParameters:  movieID: null movieName: Avengers  | ServerResponse: Verdun Server Avengers:
+ (VERA250820) in the Afternoon of 25/08/2020 Total[Remaining] Capacity: 1[0] ||
+=====================================
+
+DATE: 2020-04-22 03:43:39 PM ClientID: Movie Admin | RequestType:   listMovieAvailability  | RequestParameters:  movieName: Avengers  | ServerResponse: Atwater Server Avengers:
+No Movies of Type Avengers
+
+=====================================
+Outremont Server Avengers:
+No Movies of Type Avengers
+=====================================
+Verdun Server Avengers:
+ (VERA250820) in the Afternoon of 25/08/2020 Total[Remaining] Capacity: 1[0] ||
+=====================================
+
+DATE: 2020-04-22 06:48:30 PM  Server Started...
+DATE: 2020-04-22 06:48:32 PM  Server is Up & Running
+DATE: 2020-04-22 06:48:32 PM  UDP Server Started at port 8888
+DATE: 2020-04-22 06:48:42 PM ClientID: Movie Admin | RequestType:   addMovie  | RequestParameters:  movieID: ATWE101020 movieName: Avatar bookingCapacity 2  | ServerResponse: Success: Movie ATWE101020 added successfully
+DATE: 2020-04-22 06:48:42 PM ClientID: ATWC3456 | RequestType:   bookMovie  | RequestParameters:  movieID: ATWE101020 movieName: Avatar  | ServerResponse: Success: Movie ATWE101020 Booked Successfully
+DATE: 2020-04-22 06:48:42 PM ClientID: ATWC6789 | RequestType:   bookMovie  | RequestParameters:  movieID: ATWE101020 movieName: Avatar  | ServerResponse: Success: Movie ATWE101020 Booked Successfully
+DATE: 2020-04-22 06:48:42 PM ClientID: ATWC2345 | RequestType:   bookMovie  | RequestParameters:  movieID: ATWE101020 movieName: Avatar  | ServerResponse: Failed: Movie ATWE101020 is Full
+DATE: 2020-04-22 06:48:42 PM ClientID: ATWC4567 | RequestType:   bookMovie  | RequestParameters:  movieID: ATWE101020 movieName: Avatar  | ServerResponse: Failed: Movie ATWE101020 is Full
+DATE: 2020-04-22 06:48:42 PM ClientID: ATWC7890 | RequestType:   bookMovie  | RequestParameters:  movieID: ATWE101020 movieName: Avatar  | ServerResponse: Failed: Movie ATWE101020 is Full
+DATE: 2020-04-22 06:48:42 PM ClientID: ATWC6789 | RequestType:   cancelMovie  | RequestParameters:  movieID: ATWE101020 movieName: Avatar  | ServerResponse: Success: Movie ATWE101020 Canceled for ATWC6789
+DATE: 2020-04-22 06:48:42 PM ClientID: ATWC3456 | RequestType:   cancelMovie  | RequestParameters:  movieID: ATWE101020 movieName: Avatar  | ServerResponse: Success: Movie ATWE101020 Canceled for ATWC3456
+DATE: 2020-04-22 06:48:42 PM ClientID: ATWC2345 | RequestType:   cancelMovie  | RequestParameters:  movieID: ATWE101020 movieName: Avatar  | ServerResponse: Failed: You ATWC2345 Are Not Registered in ATWE101020
+DATE: 2020-04-22 06:48:42 PM ClientID: ATWC7890 | RequestType:   cancelMovie  | RequestParameters:  movieID: ATWE101020 movieName: Avatar  | ServerResponse: Failed: You ATWC7890 Are Not Registered in ATWE101020
+DATE: 2020-04-22 06:48:42 PM ClientID: ATWC4567 | RequestType:   cancelMovie  | RequestParameters:  movieID: ATWE101020 movieName: Avatar  | ServerResponse: Failed: You ATWC4567 Are Not Registered in ATWE101020
+DATE: 2020-04-22 06:48:42 PM ClientID: Movie Admin | RequestType:   removeMovie  | RequestParameters:  movieID: ATWE101020 movieName: Avatar  | ServerResponse: Success: Movie ATWE101020 Removed Successfully
+DATE: 2020-04-22 06:48:50 PM ClientID: Movie Admin | RequestType:   addMovie  | RequestParameters:  movieID: ATWE101020 movieName: Avatar bookingCapacity 2  | ServerResponse: Success: Movie ATWE101020 added successfully
+DATE: 2020-04-22 06:48:50 PM ClientID: ATWC2345 | RequestType:   bookMovie  | RequestParameters:  movieID: ATWE101020 movieName: Avatar  | ServerResponse: Success: Movie ATWE101020 Booked Successfully
+DATE: 2020-04-22 06:48:50 PM ClientID: ATWC4567 | RequestType:   bookMovie  | RequestParameters:  movieID: ATWE101020 movieName: Avatar  | ServerResponse: Success: Movie ATWE101020 Booked Successfully
+DATE: 2020-04-22 06:48:50 PM ClientID: ATWC3456 | RequestType:   bookMovie  | RequestParameters:  movieID: ATWE101020 movieName: Avatar  | ServerResponse: Failed: Movie ATWE101020 is Full
+DATE: 2020-04-22 06:48:50 PM ClientID: ATWC7890 | RequestType:   bookMovie  | RequestParameters:  movieID: ATWE101020 movieName: Avatar  | ServerResponse: Failed: Movie ATWE101020 is Full
+DATE: 2020-04-22 06:48:50 PM ClientID: ATWC6789 | RequestType:   bookMovie  | RequestParameters:  movieID: ATWE101020 movieName: Avatar  | ServerResponse: Success: Movie ATWE101020 Booked Successfully
+DATE: 2020-04-22 06:48:50 PM ClientID: ATWC2345 | RequestType:   cancelMovie  | RequestParameters:  movieID: ATWE101020 movieName: Avatar  | ServerResponse: Success: Movie ATWE101020 Canceled for ATWC2345
+DATE: 2020-04-22 06:48:50 PM ClientID: ATWC3456 | RequestType:   cancelMovie  | RequestParameters:  movieID: ATWE101020 movieName: Avatar  | ServerResponse: Failed: You ATWC3456 Are Not Registered in ATWE101020
+DATE: 2020-04-22 06:48:50 PM ClientID: ATWC4567 | RequestType:   cancelMovie  | RequestParameters:  movieID: ATWE101020 movieName: Avatar  | ServerResponse: Success: Movie ATWE101020 Canceled for ATWC4567
+DATE: 2020-04-22 06:48:50 PM ClientID: ATWC7890 | RequestType:   cancelMovie  | RequestParameters:  movieID: ATWE101020 movieName: Avatar  | ServerResponse: Failed: You ATWC7890 Are Not Registered in ATWE101020
+DATE: 2020-04-22 06:48:50 PM ClientID: ATWC6789 | RequestType:   cancelMovie  | RequestParameters:  movieID: ATWE101020 movieName: Avatar  | ServerResponse: Success: Movie ATWE101020 Canceled for ATWC6789
+DATE: 2020-04-22 06:48:50 PM ClientID: Movie Admin | RequestType:   removeMovie  | RequestParameters:  movieID: ATWE101020 movieName: Avatar  | ServerResponse: Success: Movie ATWE101020 Removed Successfully
+DATE: 2020-04-22 06:49:49 PM ClientID: Movie Admin | RequestType:   addMovie  | RequestParameters:  movieID: ATWE101020 movieName: Avatar bookingCapacity 2  | ServerResponse: Success: Movie ATWE101020 added successfully
+DATE: 2020-04-22 06:49:49 PM ClientID: ATWC2345 | RequestType:   bookMovie  | RequestParameters:  movieID: ATWE101020 movieName: Avatar  | ServerResponse: Success: Movie ATWE101020 Booked Successfully
+DATE: 2020-04-22 06:49:49 PM ClientID: ATWC3456 | RequestType:   bookMovie  | RequestParameters:  movieID: ATWE101020 movieName: Avatar  | ServerResponse: Success: Movie ATWE101020 Booked Successfully
+DATE: 2020-04-22 06:49:49 PM ClientID: ATWC6789 | RequestType:   bookMovie  | RequestParameters:  movieID: ATWE101020 movieName: Avatar  | ServerResponse: Failed: Movie ATWE101020 is Full
+DATE: 2020-04-22 06:49:49 PM ClientID: ATWC4567 | RequestType:   bookMovie  | RequestParameters:  movieID: ATWE101020 movieName: Avatar  | ServerResponse: Failed: Movie ATWE101020 is Full
+DATE: 2020-04-22 06:49:49 PM ClientID: ATWC2345 | RequestType:   cancelMovie  | RequestParameters:  movieID: ATWE101020 movieName: Avatar  | ServerResponse: Success: Movie ATWE101020 Canceled for ATWC2345
+DATE: 2020-04-22 06:49:49 PM ClientID: ATWC7890 | RequestType:   bookMovie  | RequestParameters:  movieID: ATWE101020 movieName: Avatar  | ServerResponse: Success: Movie ATWE101020 Booked Successfully
+DATE: 2020-04-22 06:49:49 PM ClientID: ATWC3456 | RequestType:   cancelMovie  | RequestParameters:  movieID: ATWE101020 movieName: Avatar  | ServerResponse: Success: Movie ATWE101020 Canceled for ATWC3456
+DATE: 2020-04-22 06:49:49 PM ClientID: ATWC4567 | RequestType:   cancelMovie  | RequestParameters:  movieID: ATWE101020 movieName: Avatar  | ServerResponse: Failed: You ATWC4567 Are Not Registered in ATWE101020
+DATE: 2020-04-22 06:49:49 PM ClientID: ATWC6789 | RequestType:   cancelMovie  | RequestParameters:  movieID: ATWE101020 movieName: Avatar  | ServerResponse: Failed: You ATWC6789 Are Not Registered in ATWE101020
+DATE: 2020-04-22 06:49:49 PM ClientID: ATWC7890 | RequestType:   cancelMovie  | RequestParameters:  movieID: ATWE101020 movieName: Avatar  | ServerResponse: Success: Movie ATWE101020 Canceled for ATWC7890
+DATE: 2020-04-22 06:49:49 PM ClientID: Movie Admin | RequestType:   removeMovie  | RequestParameters:  movieID: ATWE101020 movieName: Avatar  | ServerResponse: Success: Movie ATWE101020 Removed Successfully
+DATE: 2020-04-22 06:50:20 PM ClientID: Movie Admin | RequestType:   addMovie  | RequestParameters:  movieID: ATWE101020 movieName: Avatar bookingCapacity 2  | ServerResponse: Success: Movie ATWE101020 added successfully
+DATE: 2020-04-22 06:50:20 PM ClientID: ATWC2345 | RequestType:   bookMovie  | RequestParameters:  movieID: ATWE101020 movieName: Avatar  | ServerResponse: Success: Movie ATWE101020 Booked Successfully
+DATE: 2020-04-22 06:50:20 PM ClientID: ATWC4567 | RequestType:   bookMovie  | RequestParameters:  movieID: ATWE101020 movieName: Avatar  | ServerResponse: Success: Movie ATWE101020 Booked Successfully
+DATE: 2020-04-22 06:50:20 PM ClientID: ATWC6789 | RequestType:   bookMovie  | RequestParameters:  movieID: ATWE101020 movieName: Avatar  | ServerResponse: Failed: Movie ATWE101020 is Full
+DATE: 2020-04-22 06:50:20 PM ClientID: ATWC3456 | RequestType:   bookMovie  | RequestParameters:  movieID: ATWE101020 movieName: Avatar  | ServerResponse: Failed: Movie ATWE101020 is Full
+DATE: 2020-04-22 06:50:20 PM ClientID: ATWC7890 | RequestType:   bookMovie  | RequestParameters:  movieID: ATWE101020 movieName: Avatar  | ServerResponse: Failed: Movie ATWE101020 is Full
+DATE: 2020-04-22 06:50:20 PM ClientID: ATWC4567 | RequestType:   cancelMovie  | RequestParameters:  movieID: ATWE101020 movieName: Avatar  | ServerResponse: Success: Movie ATWE101020 Canceled for ATWC4567
+DATE: 2020-04-22 06:50:20 PM ClientID: ATWC2345 | RequestType:   cancelMovie  | RequestParameters:  movieID: ATWE101020 movieName: Avatar  | ServerResponse: Success: Movie ATWE101020 Canceled for ATWC2345
+DATE: 2020-04-22 06:50:20 PM ClientID: ATWC6789 | RequestType:   cancelMovie  | RequestParameters:  movieID: ATWE101020 movieName: Avatar  | ServerResponse: Failed: You ATWC6789 Are Not Registered in ATWE101020
+DATE: 2020-04-22 06:50:20 PM ClientID: ATWC3456 | RequestType:   cancelMovie  | RequestParameters:  movieID: ATWE101020 movieName: Avatar  | ServerResponse: Failed: You ATWC3456 Are Not Registered in ATWE101020
+DATE: 2020-04-22 06:50:20 PM ClientID: ATWC7890 | RequestType:   cancelMovie  | RequestParameters:  movieID: ATWE101020 movieName: Avatar  | ServerResponse: Failed: You ATWC7890 Are Not Registered in ATWE101020
+DATE: 2020-04-22 06:50:20 PM ClientID: Movie Admin | RequestType:   removeMovie  | RequestParameters:  movieID: ATWE101020 movieName: Avatar  | ServerResponse: Success: Movie ATWE101020 Removed Successfully
+DATE: 2020-04-22 06:50:37 PM ClientID: Movie Admin | RequestType:   addMovie  | RequestParameters:  movieID: ATWE101020 movieName: Avatar bookingCapacity 2  | ServerResponse: Success: Movie ATWE101020 added successfully
+DATE: 2020-04-22 06:50:37 PM ClientID: ATWC2345 | RequestType:   bookMovie  | RequestParameters:  movieID: ATWE101020 movieName: Avatar  | ServerResponse: Success: Movie ATWE101020 Booked Successfully
+DATE: 2020-04-22 06:50:37 PM ClientID: ATWC4567 | RequestType:   bookMovie  | RequestParameters:  movieID: ATWE101020 movieName: Avatar  | ServerResponse: Success: Movie ATWE101020 Booked Successfully
+DATE: 2020-04-22 06:50:37 PM ClientID: ATWC3456 | RequestType:   bookMovie  | RequestParameters:  movieID: ATWE101020 movieName: Avatar  | ServerResponse: Failed: Movie ATWE101020 is Full
+DATE: 2020-04-22 06:50:37 PM ClientID: ATWC2345 | RequestType:   cancelMovie  | RequestParameters:  movieID: ATWE101020 movieName: Avatar  | ServerResponse: Success: Movie ATWE101020 Canceled for ATWC2345
+DATE: 2020-04-22 06:50:37 PM ClientID: ATWC7890 | RequestType:   bookMovie  | RequestParameters:  movieID: ATWE101020 movieName: Avatar  | ServerResponse: Failed: Movie ATWE101020 is Full
+DATE: 2020-04-22 06:50:37 PM ClientID: ATWC6789 | RequestType:   bookMovie  | RequestParameters:  movieID: ATWE101020 movieName: Avatar  | ServerResponse: Success: Movie ATWE101020 Booked Successfully
+DATE: 2020-04-22 06:50:37 PM ClientID: ATWC3456 | RequestType:   cancelMovie  | RequestParameters:  movieID: ATWE101020 movieName: Avatar  | ServerResponse: Failed: You ATWC3456 Are Not Registered in ATWE101020
+DATE: 2020-04-22 06:50:37 PM ClientID: ATWC4567 | RequestType:   cancelMovie  | RequestParameters:  movieID: ATWE101020 movieName: Avatar  | ServerResponse: Success: Movie ATWE101020 Canceled for ATWC4567
+DATE: 2020-04-22 06:50:37 PM ClientID: ATWC6789 | RequestType:   cancelMovie  | RequestParameters:  movieID: ATWE101020 movieName: Avatar  | ServerResponse: Success: Movie ATWE101020 Canceled for ATWC6789
+DATE: 2020-04-22 06:50:37 PM ClientID: ATWC7890 | RequestType:   cancelMovie  | RequestParameters:  movieID: ATWE101020 movieName: Avatar  | ServerResponse: Success: Movie ATWE101020 Canceled for ATWC7890
+DATE: 2020-04-22 06:50:37 PM ClientID: Movie Admin | RequestType:   removeMovie  | RequestParameters:  movieID: ATWE101020 movieName: Avatar  | ServerResponse: Success: Movie ATWE101020 Removed Successfully
+DATE: 2020-04-22 06:58:35 PM ClientID: Movie Admin | RequestType:   addMovie  | RequestParameters:  movieID: ATWE101020 movieName: Avatar bookingCapacity 2  | ServerResponse: Success: Movie ATWE101020 added successfully
+DATE: 2020-04-22 06:58:35 PM ClientID: ATWC3456 | RequestType:   bookMovie  | RequestParameters:  movieID: ATWE101020 movieName: Avatar  | ServerResponse: Success: Movie ATWE101020 Booked Successfully
+DATE: 2020-04-22 06:58:35 PM ClientID: ATWC2345 | RequestType:   bookMovie  | RequestParameters:  movieID: ATWE101020 movieName: Avatar  | ServerResponse: Success: Movie ATWE101020 Booked Successfully
+DATE: 2020-04-22 06:58:35 PM ClientID: ATWC4567 | RequestType:   bookMovie  | RequestParameters:  movieID: ATWE101020 movieName: Avatar  | ServerResponse: Failed: Movie ATWE101020 is Full
+DATE: 2020-04-22 06:58:35 PM ClientID: ATWC2345 | RequestType:   cancelMovie  | RequestParameters:  movieID: ATWE101020 movieName: Avatar  | ServerResponse: Success: Movie ATWE101020 Canceled for ATWC2345
+DATE: 2020-04-22 06:58:35 PM ClientID: ATWC3456 | RequestType:   cancelMovie  | RequestParameters:  movieID: ATWE101020 movieName: Avatar  | ServerResponse: Success: Movie ATWE101020 Canceled for ATWC3456
+DATE: 2020-04-22 06:58:35 PM ClientID: ATWC4567 | RequestType:   cancelMovie  | RequestParameters:  movieID: ATWE101020 movieName: Avatar  | ServerResponse: Failed: You ATWC4567 Are Not Registered in ATWE101020
+DATE: 2020-04-22 06:58:35 PM ClientID: Movie Admin | RequestType:   removeMovie  | RequestParameters:  movieID: ATWE101020 movieName: Avatar  | ServerResponse: Success: Movie ATWE101020 Removed Successfully
+DATE: 2020-04-22 06:58:43 PM ClientID: Movie Admin | RequestType:   addMovie  | RequestParameters:  movieID: ATWE101020 movieName: Avatar bookingCapacity 2  | ServerResponse: Success: Movie ATWE101020 added successfully
+DATE: 2020-04-22 06:58:43 PM ClientID: ATWC2345 | RequestType:   bookMovie  | RequestParameters:  movieID: ATWE101020 movieName: Avatar  | ServerResponse: Success: Movie ATWE101020 Booked Successfully
+DATE: 2020-04-22 06:58:43 PM ClientID: ATWC3456 | RequestType:   bookMovie  | RequestParameters:  movieID: ATWE101020 movieName: Avatar  | ServerResponse: Success: Movie ATWE101020 Booked Successfully
+DATE: 2020-04-22 06:58:43 PM ClientID: ATWC4567 | RequestType:   bookMovie  | RequestParameters:  movieID: ATWE101020 movieName: Avatar  | ServerResponse: Failed: Movie ATWE101020 is Full
+DATE: 2020-04-22 06:58:43 PM ClientID: ATWC2345 | RequestType:   cancelMovie  | RequestParameters:  movieID: ATWE101020 movieName: Avatar  | ServerResponse: Success: Movie ATWE101020 Canceled for ATWC2345
+DATE: 2020-04-22 06:58:43 PM ClientID: ATWC3456 | RequestType:   cancelMovie  | RequestParameters:  movieID: ATWE101020 movieName: Avatar  | ServerResponse: Success: Movie ATWE101020 Canceled for ATWC3456
+DATE: 2020-04-22 06:58:43 PM ClientID: ATWC4567 | RequestType:   cancelMovie  | RequestParameters:  movieID: ATWE101020 movieName: Avatar  | ServerResponse: Failed: You ATWC4567 Are Not Registered in ATWE101020
+DATE: 2020-04-22 06:58:43 PM ClientID: Movie Admin | RequestType:   removeMovie  | RequestParameters:  movieID: ATWE101020 movieName: Avatar  | ServerResponse: Success: Movie ATWE101020 Removed Successfully
+DATE: 2020-04-22 06:58:58 PM ClientID: Movie Admin | RequestType:   addMovie  | RequestParameters:  movieID: ATWE101020 movieName: Avatar bookingCapacity 2  | ServerResponse: Success: Movie ATWE101020 added successfully
+DATE: 2020-04-22 06:58:58 PM ClientID: ATWC2345 | RequestType:   bookMovie  | RequestParameters:  movieID: ATWE101020 movieName: Avatar  | ServerResponse: Success: Movie ATWE101020 Booked Successfully
+DATE: 2020-04-22 06:58:58 PM ClientID: ATWC3456 | RequestType:   bookMovie  | RequestParameters:  movieID: ATWE101020 movieName: Avatar  | ServerResponse: Success: Movie ATWE101020 Booked Successfully
+DATE: 2020-04-22 06:58:58 PM ClientID: ATWC4567 | RequestType:   bookMovie  | RequestParameters:  movieID: ATWE101020 movieName: Avatar  | ServerResponse: Failed: Movie ATWE101020 is Full
+DATE: 2020-04-22 06:58:59 PM ClientID: ATWC2345 | RequestType:   cancelMovie  | RequestParameters:  movieID: ATWE101020 movieName: Avatar  | ServerResponse: Success: Movie ATWE101020 Canceled for ATWC2345
+DATE: 2020-04-22 06:58:59 PM ClientID: ATWC3456 | RequestType:   cancelMovie  | RequestParameters:  movieID: ATWE101020 movieName: Avatar  | ServerResponse: Success: Movie ATWE101020 Canceled for ATWC3456
+DATE: 2020-04-22 06:58:59 PM ClientID: ATWC4567 | RequestType:   cancelMovie  | RequestParameters:  movieID: ATWE101020 movieName: Avatar  | ServerResponse: Failed: You ATWC4567 Are Not Registered in ATWE101020
+DATE: 2020-04-22 06:58:59 PM ClientID: Movie Admin | RequestType:   removeMovie  | RequestParameters:  movieID: ATWE101020 movieName: Avatar  | ServerResponse: Success: Movie ATWE101020 Removed Successfully

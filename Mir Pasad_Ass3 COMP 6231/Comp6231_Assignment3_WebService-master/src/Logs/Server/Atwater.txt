@@ -1,0 +1,30 @@
+DATE: 2023-03-13 05:45:21 AM  Server Started...
+DATE: 2023-03-13 05:45:22 AM  Server is Up & Running
+DATE: 2023-03-13 05:45:22 AM  UDP Server Started at port 8888
+DATE: 2023-03-13 05:46:58 AM ClientID: Movie Admin | RequestType:   addMovie  | RequestParameters:  movieID: ATWM140323 movieName: Avatar bookingCapacity 10  | ServerResponse: Success: Movie ATWM140323 added successfully
+DATE: 2023-03-13 05:47:34 AM ClientID: Movie Admin | RequestType:  UDP request sent listMovieAvailability  | RequestParameters:  movieID: null movieName: Avatar  | ServerResponse:  ... 
+DATE: 2023-03-13 05:47:34 AM ClientID: Movie Admin | RequestType:  UDP reply receivedlistMovieAvailability  | RequestParameters:  movieID: null movieName: Avatar  | ServerResponse: Outremont Server Avatar:
+No Movies of Type Avatar
+DATE: 2023-03-13 05:47:34 AM ClientID: Movie Admin | RequestType:  UDP request sent listMovieAvailability  | RequestParameters:  movieID: null movieName: Avatar  | ServerResponse:  ... 
+DATE: 2023-03-13 05:47:34 AM ClientID: Movie Admin | RequestType:  UDP reply receivedlistMovieAvailability  | RequestParameters:  movieID: null movieName: Avatar  | ServerResponse: Verdun Server Avatar:
+No Movies of Type Avatar
+DATE: 2023-03-13 05:47:34 AM ClientID: Movie Admin | RequestType:   listMovieAvailability  | RequestParameters:  movieName: Avatar  | ServerResponse: Atwater Server Avatar:
+ (ATWM140323) in the Morning of 14/03/2023 Total[Remaining] Capacity: 10[10] || Outremont Server Avatar:
+No Movies of Type AvatarVerdun Server Avatar:
+No Movies of Type Avatar
+DATE: 2023-03-13 05:49:57 AM ClientID: ATWC1234 | RequestType:  bookMovie  | RequestParameters:  movieID: ATWM140323 movieName: Avatar  | ServerResponse: Success: Movie ATWM140323 Booked Successfully
+DATE: 2023-03-13 05:50:07 AM ClientID: Movie Admin | RequestType:  UDP request sent listMovieAvailability  | RequestParameters:  movieID: null movieName: Avatar  | ServerResponse:  ... 
+DATE: 2023-03-13 05:50:07 AM ClientID: Movie Admin | RequestType:  UDP reply receivedlistMovieAvailability  | RequestParameters:  movieID: null movieName: Avatar  | ServerResponse: Outremont Server Avatar:
+No Movies of Type Avatar
+DATE: 2023-03-13 05:50:07 AM ClientID: Movie Admin | RequestType:  UDP request sent listMovieAvailability  | RequestParameters:  movieID: null movieName: Avatar  | ServerResponse:  ... 
+DATE: 2023-03-13 05:50:07 AM ClientID: Movie Admin | RequestType:  UDP reply receivedlistMovieAvailability  | RequestParameters:  movieID: null movieName: Avatar  | ServerResponse: Verdun Server Avatar:
+No Movies of Type Avatar
+DATE: 2023-03-13 05:50:07 AM ClientID: Movie Admin | RequestType:   listMovieAvailability  | RequestParameters:  movieName: Avatar  | ServerResponse: Atwater Server Avatar:
+ (ATWM140323) in the Morning of 14/03/2023 Total[Remaining] Capacity: 10[9] || Outremont Server Avatar:
+No Movies of Type AvatarVerdun Server Avatar:
+No Movies of Type Avatar
+DATE: 2023-03-13 05:50:52 AM ClientID: ATWC1234 | RequestType:   getBookingSchedule  | RequestParameters: null | ServerResponse: Avatar:
+ATWM140323 ||
+DATE: 2023-03-13 06:01:28 AM  Server Started...
+DATE: 2023-03-13 06:01:29 AM  Server is Up & Running
+DATE: 2023-03-13 06:01:29 AM  UDP Server Started at port 8888

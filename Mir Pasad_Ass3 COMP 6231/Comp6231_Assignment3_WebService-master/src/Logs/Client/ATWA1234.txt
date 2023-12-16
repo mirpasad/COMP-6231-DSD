@@ -1,0 +1,17 @@
+DATE: 2023-03-13 05:46:06 AM  login attempt
+DATE: 2023-03-13 05:46:06 AM  Admin Login successful
+DATE: 2023-03-13 05:46:58 AM  attempting to addMovie
+DATE: 2023-03-13 05:46:58 AM Client Action:  addMovie | RequestParameters:  movieID: ATWM140323 movieName: Avatar movieCapacity: 10  | Server Response: Success: Movie ATWM140323 added successfully
+DATE: 2023-03-13 05:47:34 AM  attempting to listMovieAvailability
+DATE: 2023-03-13 05:47:34 AM Client Action:  listMovieAvailability | RequestParameters:  movieName: Avatar  | Server Response: Atwater Server Avatar:
+ (ATWM140323) in the Morning of 14/03/2023 Total[Remaining] Capacity: 10[10] || Outremont Server Avatar:
+No Movies of Type AvatarVerdun Server Avatar:
+No Movies of Type Avatar
+DATE: 2023-03-13 05:49:57 AM  attempting to bookMovie
+DATE: 2023-03-13 05:49:57 AM Client Action:  bookMovie | RequestParameters:  customerID: ATWC1234 movieID: ATWM140323 movieName: Avatar  | Server Response: Success: Movie ATWM140323 Booked Successfully
+DATE: 2023-03-13 05:50:07 AM  attempting to listMovieAvailability
+DATE: 2023-03-13 05:50:07 AM Client Action:  listMovieAvailability | RequestParameters:  movieName: Avatar  | Server Response: Atwater Server Avatar:
+ (ATWM140323) in the Morning of 14/03/2023 Total[Remaining] Capacity: 10[9] || Outremont Server Avatar:
+No Movies of Type AvatarVerdun Server Avatar:
+No Movies of Type Avatar
+DATE: 2023-03-13 05:50:40 AM attempting to Logout

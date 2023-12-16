@@ -1,0 +1,15 @@
+DATE: 2020-03-25 06:54:47 PM  login attempt
+DATE: 2020-03-25 06:54:47 PM  Admin Login successful
+DATE: 2020-03-25 06:54:52 PM  attempting to listMovieAvailability
+DATE: 2020-03-25 06:54:52 PM Client Action:  listMovieAvailability | RequestParameters:  movieName: Avatar  | Server Response: Outremont Server Avatar:
+No Movies of Type Avatar
+
+=====================================
+Verdun Server Avatar:
+No Movies of Type Avatar
+=====================================
+Atwater Server Avatar:
+ (ATWE101020) in the Evening of 10/10/2020 Total[Remaining] Capacity: 2[2] ||
+=====================================
+
+DATE: 2020-03-25 06:55:08 PM attempting to Logout

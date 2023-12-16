@@ -1,0 +1,200 @@
+DATE: 2020-02-29 12:26:01 AM Exception: org.omg..COMM_FAILURE:   vmcid: SUN  minor code: 201  completed: No
+DATE: 2020-02-29 12:26:01 AM  Server Shutting down
+DATE: 2020-02-29 12:43:21 AM Exception: org.omg..COMM_FAILURE:   vmcid: SUN  minor code: 201  completed: No
+DATE: 2020-02-29 12:43:21 AM  Server Shutting down
+DATE: 2020-02-29 12:51:23 AM  Server is Up & Running
+DATE: 2020-02-29 12:51:23 AM  UDP Server Started at port 6666
+DATE: 2020-02-29 01:03:00 AM  Server is Up & Running
+DATE: 2020-02-29 01:03:37 AM  Server is Up & Running
+DATE: 2020-02-29 01:03:37 AM  UDP Server Started at port 6666
+DATE: 2020-03-01 04:49:03 PM  Server is Up & Running
+DATE: 2020-03-01 04:49:03 PM  UDP Server Started at port 6666
+DATE: 2020-03-01 04:54:54 PM  Server is Up & Running
+DATE: 2020-03-01 04:54:54 PM  UDP Server Started at port 6666
+DATE: 2020-03-01 05:03:48 PM  Server is Up & Running
+DATE: 2020-03-01 05:03:48 PM  UDP Server Started at port 6666
+DATE: 2020-03-01 05:35:57 PM ClientID: Movie Admin | RequestType:  UDP request received listMovieAvailability  | RequestParameters:  movieName: Avatar  | ServerResponse:  ...
+DATE: 2020-03-01 05:35:57 PM ClientID: Movie Admin | RequestType:  UDP reply sent listMovieAvailability  | RequestParameters:  movieID: null movieName: Avatar  | ServerResponse: Outremont Server Avatar:
+ (OUTE080620) in the Evening of 08/06/2020 Total[Remaining] Capacity: 1[1] ||  (OUTE110620) in the Evening of 11/06/2020 Total[Remaining] Capacity: 1[1] ||
+=====================================
+;
+DATE: 2020-03-01 05:36:43 PM ClientID: ATWC1234 | RequestType:  UDP request received bookMovie  | RequestParameters:  movieID: OUTE080620 movieName: Avatar  | ServerResponse:  ...
+DATE: 2020-03-01 05:36:43 PM ClientID: ATWC1234 | RequestType:   bookMovie  | RequestParameters:  movieID: OUTE080620 movieName: Avatar  | ServerResponse: Success: Movie OUTE080620 Booked Successfully
+DATE: 2020-03-01 05:36:43 PM ClientID: ATWC1234 | RequestType:  UDP reply sent bookMovie  | RequestParameters:  movieID: OUTE080620 movieName: Avatar  | ServerResponse: Success: Movie OUTE080620 Booked Successfully;
+DATE: 2020-03-01 05:37:59 PM ClientID: ATWC1234 | RequestType:  UDP request received bookMovie  | RequestParameters:  movieID: OUTE110620 movieName: Avatar  | ServerResponse:  ...
+DATE: 2020-03-01 05:37:59 PM ClientID: ATWC1234 | RequestType:   bookMovie  | RequestParameters:  movieID: OUTE110620 movieName: Avatar  | ServerResponse: Success: Movie OUTE110620 Booked Successfully
+DATE: 2020-03-01 05:37:59 PM ClientID: ATWC1234 | RequestType:  UDP reply sent bookMovie  | RequestParameters:  movieID: OUTE110620 movieName: Avatar  | ServerResponse: Success: Movie OUTE110620 Booked Successfully;
+DATE: 2020-03-01 05:37:59 PM ClientID: ATWC1234 | RequestType:  UDP request received cancelMovie  | RequestParameters:  movieID: OUTE080620 movieName: Avatar  | ServerResponse:  ...
+DATE: 2020-03-01 05:37:59 PM ClientID: ATWC1234 | RequestType:   cancelMovie  | RequestParameters:  movieID: OUTE080620 movieName: Avatar  | ServerResponse: Success: Movie OUTE080620 Canceled for ATWC1234
+DATE: 2020-03-01 05:37:59 PM ClientID: ATWC1234 | RequestType:  UDP reply sent cancelMovie  | RequestParameters:  movieID: OUTE080620 movieName: Avatar  | ServerResponse: Success: Movie OUTE080620 Canceled for ATWC1234;
+DATE: 2020-03-01 05:38:40 PM ClientID: ATWC1234 | RequestType:  UDP request received cancelMovie  | RequestParameters:  movieID: OUTE110620 movieName: Avatar  | ServerResponse:  ...
+DATE: 2020-03-01 05:38:40 PM ClientID: ATWC1234 | RequestType:   cancelMovie  | RequestParameters:  movieID: OUTE110620 movieName: Avatar  | ServerResponse: Success: Movie OUTE110620 Canceled for ATWC1234
+DATE: 2020-03-01 05:38:40 PM ClientID: ATWC1234 | RequestType:  UDP reply sent cancelMovie  | RequestParameters:  movieID: OUTE110620 movieName: Avatar  | ServerResponse: Success: Movie OUTE110620 Canceled for ATWC1234;
+DATE: 2020-03-01 05:39:10 PM ClientID: Movie Admin | RequestType:  UDP request received listMovieAvailability  | RequestParameters:  movieName: Avatar  | ServerResponse:  ...
+DATE: 2020-03-01 05:39:10 PM ClientID: Movie Admin | RequestType:  UDP reply sent listMovieAvailability  | RequestParameters:  movieID: null movieName: Avatar  | ServerResponse: Outremont Server Avatar:
+ (OUTE080620) in the Evening of 08/06/2020 Total[Remaining] Capacity: 1[1] ||  (OUTE110620) in the Evening of 11/06/2020 Total[Remaining] Capacity: 1[1] ||
+=====================================
+;
+DATE: 2020-03-25 06:44:42 PM  Server Started...
+DATE: 2020-03-25 06:44:45 PM  Server is Up & Running
+DATE: 2020-03-25 06:44:45 PM  Server Shutting down
+DATE: 2020-03-25 06:44:45 PM  UDP Server Started at port 6666
+DATE: 2020-03-25 06:46:13 PM  Server Started...
+DATE: 2020-03-25 06:46:14 PM  Server is Up & Running
+DATE: 2020-03-25 06:46:14 PM  UDP Server Started at port 6666
+DATE: 2020-03-25 06:49:35 PM  Server Started...
+DATE: 2020-03-25 06:49:37 PM  Server is Up & Running
+DATE: 2020-03-25 06:49:37 PM  UDP Server Started at port 6666
+DATE: 2020-03-25 06:51:07 PM ClientID: Movie Admin | RequestType:  UDP request received listMovieAvailability  | RequestParameters:  movieName: Avatar  | ServerResponse:  ...
+DATE: 2020-03-25 06:51:07 PM ClientID: Movie Admin | RequestType:  UDP reply sent listMovieAvailability  | RequestParameters:  movieID: null movieName: Avatar  | ServerResponse: Outremont Server Avatar:
+No Movies of Type Avatar
+=====================================
+;
+DATE: 2020-03-25 06:54:00 PM  Server Started...
+DATE: 2020-03-25 06:54:02 PM  Server is Up & Running
+DATE: 2020-03-25 06:54:02 PM  UDP Server Started at port 6666
+DATE: 2020-03-25 06:54:32 PM ClientID: Movie Admin | RequestType:  UDP request received listMovieAvailability  | RequestParameters:  movieName: Avatar  | ServerResponse:  ...
+DATE: 2020-03-25 06:54:32 PM ClientID: Movie Admin | RequestType:  UDP reply sent listMovieAvailability  | RequestParameters:  movieID: null movieName: Avatar  | ServerResponse: Outremont Server Avatar:
+No Movies of Type Avatar
+=====================================
+;
+DATE: 2020-03-25 06:54:52 PM ClientID: Movie Admin | RequestType:  UDP request sent listMovieAvailability  | RequestParameters:  movieID: null movieName: Avatar  | ServerResponse:  ...
+DATE: 2020-03-25 06:54:52 PM ClientID: Movie Admin | RequestType:  UDP reply receivedlistMovieAvailability  | RequestParameters:  movieID: null movieName: Avatar  | ServerResponse: Verdun Server Avatar:
+No Movies of Type Avatar
+=====================================
+
+DATE: 2020-03-25 06:54:52 PM ClientID: Movie Admin | RequestType:  UDP request sent listMovieAvailability  | RequestParameters:  movieID: null movieName: Avatar  | ServerResponse:  ...
+DATE: 2020-03-25 06:54:52 PM ClientID: Movie Admin | RequestType:  UDP reply receivedlistMovieAvailability  | RequestParameters:  movieID: null movieName: Avatar  | ServerResponse: Atwater Server Avatar:
+ (ATWE101020) in the Evening of 10/10/2020 Total[Remaining] Capacity: 2[2] ||
+=====================================
+
+DATE: 2020-03-25 06:54:52 PM ClientID: Movie Admin | RequestType:   listMovieAvailability  | RequestParameters:  movieName: Avatar  | ServerResponse: Outremont Server Avatar:
+No Movies of Type Avatar
+
+=====================================
+Verdun Server Avatar:
+No Movies of Type Avatar
+=====================================
+Atwater Server Avatar:
+ (ATWE101020) in the Evening of 10/10/2020 Total[Remaining] Capacity: 2[2] ||
+=====================================
+
+DATE: 2020-03-25 06:56:50 PM  Server Started...
+DATE: 2020-03-25 06:56:51 PM  Server is Up & Running
+DATE: 2020-03-25 06:56:51 PM  UDP Server Started at port 6666
+DATE: 2020-03-26 05:27:37 PM  Server Started...
+DATE: 2020-03-26 05:27:38 PM  Server is Up & Running
+DATE: 2020-03-26 05:27:38 PM  UDP Server Started at port 6666
+DATE: 2020-03-26 06:22:01 PM ClientID: Movie Admin | RequestType:  UDP request received listMovieAvailability  | RequestParameters:  movieName: Avatar  | ServerResponse:  ...
+DATE: 2020-03-26 06:22:01 PM ClientID: Movie Admin | RequestType:  UDP reply sent listMovieAvailability  | RequestParameters:  movieID: null movieName: Avatar  | ServerResponse: Outremont Server Avatar:
+No Movies of Type Avatar
+=====================================
+;
+DATE: 2020-03-26 06:22:36 PM ClientID: OUTC1234 | RequestType:  UDP request sent bookMovie  | RequestParameters:  movieID: ATWE101020 movieName: Avatar  | ServerResponse:  ...
+DATE: 2020-03-26 06:22:36 PM ClientID: OUTC1234 | RequestType:  UDP reply receivedbookMovie  | RequestParameters:  movieID: ATWE101020 movieName: Avatar  | ServerResponse: Success: Movie ATWE101020 Booked Successfully
+DATE: 2020-03-26 06:22:36 PM ClientID: OUTC1234 | RequestType:   bookMovie  | RequestParameters:  movieID: ATWE101020 movieName: Avatar  | ServerResponse: Success: Movie ATWE101020 Booked Successfully
+DATE: 2020-03-26 06:22:40 PM ClientID: OUTC1234 | RequestType:   getBookingSchedule  | RequestParameters: null | ServerResponse: Avatar:
+ATWE101020 ||
+=====================================
+
+DATE: 2020-03-26 06:22:52 PM ClientID: OUTC1234 | RequestType:  UDP request sent cancelMovie  | RequestParameters:  movieID: ATWE101020 movieName: Avatar  | ServerResponse:  ...
+DATE: 2020-03-26 06:22:52 PM ClientID: OUTC1234 | RequestType:  UDP reply receivedcancelMovie  | RequestParameters:  movieID: ATWE101020 movieName: Avatar  | ServerResponse: Success: Movie ATWE101020 Canceled for OUTC1234
+DATE: 2020-03-26 06:22:52 PM ClientID: OUTC1234 | RequestType:   cancelMovie  | RequestParameters:  movieID: ATWE101020 movieName: Avatar  | ServerResponse: Success: Movie ATWE101020 Canceled for OUTC1234
+DATE: 2020-03-26 06:22:56 PM ClientID: OUTC1234 | RequestType:   getBookingSchedule  | RequestParameters: null | ServerResponse: Avatar:
+
+=====================================
+
+DATE: 2020-03-26 06:27:15 PM  Server Started...
+DATE: 2020-03-26 06:27:17 PM  Server is Up & Running
+DATE: 2020-03-26 06:27:17 PM  UDP Server Started at port 6666
+DATE: 2020-04-03 01:43:36 PM  Server Started...
+DATE: 2020-04-03 01:43:37 PM  Server is Up & Running
+DATE: 2020-04-03 01:43:37 PM  UDP Server Started at port 6666
+DATE: 2020-04-03 01:44:36 PM ClientID: Movie Admin | RequestType:  UDP request received listMovieAvailability  | RequestParameters:  movieName: Avatar  | ServerResponse:  ...
+DATE: 2020-04-03 01:44:36 PM ClientID: Movie Admin | RequestType:  UDP reply sent listMovieAvailability  | RequestParameters:  movieID: null movieName: Avatar  | ServerResponse: Outremont Server Avatar:
+No Movies of Type Avatar
+=====================================
+;
+DATE: 2020-04-22 03:38:14 PM  Server Started...
+DATE: 2020-04-22 03:38:16 PM  Server is Up & Running
+DATE: 2020-04-22 03:38:16 PM  UDP Server Started at port 6666
+DATE: 2020-04-22 03:38:21 PM ClientID: Movie Admin | RequestType:   addMovie  | RequestParameters:  movieID: OUTE080820 movieName: Titanic bookingCapacity 1  | ServerResponse: Success: Movie OUTE080820 added successfully
+DATE: 2020-04-22 03:38:21 PM ClientID: OUTC1234 | RequestType:  UDP request sent bookMovie  | RequestParameters:  movieID: ATWA080820 movieName: Avatar  | ServerResponse:  ...
+DATE: 2020-04-22 03:38:21 PM ClientID: OUTC1234 | RequestType:  UDP reply receivedbookMovie  | RequestParameters:  movieID: ATWA080820 movieName: Avatar  | ServerResponse: Success: Movie ATWA080820 Booked Successfully
+DATE: 2020-04-22 03:38:21 PM ClientID: OUTC1234 | RequestType:   bookMovie  | RequestParameters:  movieID: ATWA080820 movieName: Avatar  | ServerResponse: Success: Movie ATWA080820 Booked Successfully
+DATE: 2020-04-22 03:38:21 PM ClientID: OUTC1234 | RequestType:  UDP request sent bookMovie  | RequestParameters:  movieID: ATWM110820 movieName: Avengers  | ServerResponse:  ...
+DATE: 2020-04-22 03:38:21 PM ClientID: OUTC1234 | RequestType:  UDP reply receivedbookMovie  | RequestParameters:  movieID: ATWM110820 movieName: Avengers  | ServerResponse: Success: Movie ATWM110820 Booked Successfully
+DATE: 2020-04-22 03:38:21 PM ClientID: OUTC1234 | RequestType:   bookMovie  | RequestParameters:  movieID: ATWM110820 movieName: Avengers  | ServerResponse: Success: Movie ATWM110820 Booked Successfully
+DATE: 2020-04-22 03:38:21 PM ClientID: OUTC1234 | RequestType:  UDP request sent bookMovie  | RequestParameters:  movieID: VERA250820 movieName: Avengers  | ServerResponse:  ...
+DATE: 2020-04-22 03:38:21 PM ClientID: OUTC1234 | RequestType:  UDP reply receivedbookMovie  | RequestParameters:  movieID: VERA250820 movieName: Avengers  | ServerResponse: Success: Movie VERA250820 Booked Successfully
+DATE: 2020-04-22 03:38:21 PM ClientID: OUTC1234 | RequestType:   bookMovie  | RequestParameters:  movieID: VERA250820 movieName: Avengers  | ServerResponse: Success: Movie VERA250820 Booked Successfully
+DATE: 2020-04-22 03:38:21 PM ClientID: OUTC1234 | RequestType:   bookMovie  | RequestParameters:  movieID: OUTE080820 movieName: Titanic  | ServerResponse: Success: Movie OUTE080820 Booked Successfully
+DATE: 2020-04-22 03:38:53 PM  Server Started...
+DATE: 2020-04-22 03:38:54 PM  Server is Up & Running
+DATE: 2020-04-22 03:38:54 PM  UDP Server Started at port 6666
+DATE: 2020-04-22 03:38:59 PM ClientID: Movie Admin | RequestType:   addMovie  | RequestParameters:  movieID: OUTE080820 movieName: Titanic bookingCapacity 1  | ServerResponse: Success: Movie OUTE080820 added successfully
+DATE: 2020-04-22 03:38:59 PM ClientID: OUTC1234 | RequestType:  UDP request sent bookMovie  | RequestParameters:  movieID: ATWA080820 movieName: Avatar  | ServerResponse:  ...
+DATE: 2020-04-22 03:38:59 PM ClientID: OUTC1234 | RequestType:  UDP reply receivedbookMovie  | RequestParameters:  movieID: ATWA080820 movieName: Avatar  | ServerResponse: Success: Movie ATWA080820 Booked Successfully
+DATE: 2020-04-22 03:38:59 PM ClientID: OUTC1234 | RequestType:   bookMovie  | RequestParameters:  movieID: ATWA080820 movieName: Avatar  | ServerResponse: Success: Movie ATWA080820 Booked Successfully
+DATE: 2020-04-22 03:38:59 PM ClientID: OUTC1234 | RequestType:  UDP request sent bookMovie  | RequestParameters:  movieID: ATWM110820 movieName: Avengers  | ServerResponse:  ...
+DATE: 2020-04-22 03:38:59 PM ClientID: OUTC1234 | RequestType:  UDP reply receivedbookMovie  | RequestParameters:  movieID: ATWM110820 movieName: Avengers  | ServerResponse: Success: Movie ATWM110820 Booked Successfully
+DATE: 2020-04-22 03:38:59 PM ClientID: OUTC1234 | RequestType:   bookMovie  | RequestParameters:  movieID: ATWM110820 movieName: Avengers  | ServerResponse: Success: Movie ATWM110820 Booked Successfully
+DATE: 2020-04-22 03:38:59 PM ClientID: OUTC1234 | RequestType:  UDP request sent bookMovie  | RequestParameters:  movieID: VERA250820 movieName: Avengers  | ServerResponse:  ...
+DATE: 2020-04-22 03:38:59 PM ClientID: OUTC1234 | RequestType:  UDP reply receivedbookMovie  | RequestParameters:  movieID: VERA250820 movieName: Avengers  | ServerResponse: Success: Movie VERA250820 Booked Successfully
+DATE: 2020-04-22 03:38:59 PM ClientID: OUTC1234 | RequestType:   bookMovie  | RequestParameters:  movieID: VERA250820 movieName: Avengers  | ServerResponse: Success: Movie VERA250820 Booked Successfully
+DATE: 2020-04-22 03:38:59 PM ClientID: OUTC1234 | RequestType:   bookMovie  | RequestParameters:  movieID: OUTE080820 movieName: Titanic  | ServerResponse: Success: Movie OUTE080820 Booked Successfully
+DATE: 2020-04-22 03:39:18 PM ClientID: Movie Admin | RequestType:  UDP request received listMovieAvailability  | RequestParameters:  movieName: Avatar  | ServerResponse:  ...
+DATE: 2020-04-22 03:39:18 PM ClientID: Movie Admin | RequestType:  UDP reply sent listMovieAvailability  | RequestParameters:  movieID: null movieName: Avatar  | ServerResponse: Outremont Server Avatar:
+No Movies of Type Avatar
+=====================================
+;
+DATE: 2020-04-22 03:39:37 PM ClientID: Movie Admin | RequestType:  UDP request received listMovieAvailability  | RequestParameters:  movieName: Avengers  | ServerResponse:  ...
+DATE: 2020-04-22 03:39:37 PM ClientID: Movie Admin | RequestType:  UDP reply sent listMovieAvailability  | RequestParameters:  movieID: null movieName: Avengers  | ServerResponse: Outremont Server Avengers:
+No Movies of Type Avengers
+=====================================
+;
+DATE: 2020-04-22 03:39:49 PM ClientID: Movie Admin | RequestType:  UDP request received listMovieAvailability  | RequestParameters:  movieName: Titanic  | ServerResponse:  ...
+DATE: 2020-04-22 03:39:49 PM ClientID: Movie Admin | RequestType:  UDP reply sent listMovieAvailability  | RequestParameters:  movieID: null movieName: Titanic  | ServerResponse: Outremont Server Titanic:
+ (OUTE080820) in the Evening of 08/08/2020 Total[Remaining] Capacity: 1[0] ||
+=====================================
+;
+DATE: 2020-04-22 03:41:02 PM ClientID: OUTC1234 | RequestType:  UDP request received removeMovie  | RequestParameters:  movieID: ATWM110820:ATWM120820 movieName: Avengers  | ServerResponse:  ...
+DATE: 2020-04-22 03:41:02 PM ClientID: OUTC1234 | RequestType:  UDP request sent bookMovie  | RequestParameters:  movieID: ATWM120820 movieName: Avengers  | ServerResponse:  ...
+DATE: 2020-04-22 03:41:02 PM ClientID: OUTC1234 | RequestType:  UDP reply receivedbookMovie  | RequestParameters:  movieID: ATWM120820 movieName: Avengers  | ServerResponse: Success: Movie ATWM120820 Booked Successfully
+DATE: 2020-04-22 03:41:02 PM ClientID: OUTC1234 | RequestType:   bookMovie  | RequestParameters:  movieID: ATWM120820 movieName: Avengers  | ServerResponse: Success: Movie ATWM120820 Booked Successfully
+DATE: 2020-04-22 03:41:02 PM ClientID: OUTC1234 | RequestType:  UDP reply sent removeMovie  | RequestParameters:  movieID: ATWM110820:ATWM120820 movieName: Avengers  | ServerResponse: Success: Movie ATWM110820 Was Removed from OUTC1234 Schedule;
+DATE: 2020-04-22 03:41:07 PM ClientID: Movie Admin | RequestType:  UDP request received listMovieAvailability  | RequestParameters:  movieName: Avengers  | ServerResponse:  ...
+DATE: 2020-04-22 03:41:07 PM ClientID: Movie Admin | RequestType:  UDP reply sent listMovieAvailability  | RequestParameters:  movieID: null movieName: Avengers  | ServerResponse: Outremont Server Avengers:
+No Movies of Type Avengers
+=====================================
+;
+DATE: 2020-04-22 03:42:51 PM ClientID: OUTC1234 | RequestType:   getBookingSchedule  | RequestParameters: null | ServerResponse: Avengers:
+VERA250820 ||ATWM120820 ||
+=====================================
+Avatar:
+ATWA080820 ||
+=====================================
+Titanic:
+OUTE080820 ||
+=====================================
+
+DATE: 2020-04-22 03:43:29 PM ClientID: OUTC1234 | RequestType:  UDP request received removeMovie  | RequestParameters:  movieID: ATWM120820:null movieName: Avengers  | ServerResponse:  ...
+DATE: 2020-04-22 03:43:29 PM ClientID: OUTC1234 | RequestType:  UDP reply sent removeMovie  | RequestParameters:  movieID: ATWM120820:null movieName: Avengers  | ServerResponse: Success: Movie ATWM120820 Was Removed from OUTC1234 Schedule;
+DATE: 2020-04-22 03:43:39 PM ClientID: Movie Admin | RequestType:  UDP request received listMovieAvailability  | RequestParameters:  movieName: Avengers  | ServerResponse:  ...
+DATE: 2020-04-22 03:43:39 PM ClientID: Movie Admin | RequestType:  UDP reply sent listMovieAvailability  | RequestParameters:  movieID: null movieName: Avengers  | ServerResponse: Outremont Server Avengers:
+No Movies of Type Avengers
+=====================================
+;
+DATE: 2020-04-22 03:43:49 PM ClientID: OUTC1234 | RequestType:   getBookingSchedule  | RequestParameters: null | ServerResponse: Avengers:
+VERA250820 ||
+=====================================
+Avatar:
+ATWA080820 ||
+=====================================
+Titanic:
+OUTE080820 ||
+=====================================
+
+DATE: 2020-04-22 06:48:30 PM  Server Started...
+DATE: 2020-04-22 06:48:32 PM  Server is Up & Running
+DATE: 2020-04-22 06:48:32 PM  UDP Server Started at port 6666
